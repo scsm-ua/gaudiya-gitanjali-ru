@@ -1,0 +1,14 @@
+{
+    "name": "gaudiya-gitanjali-ru",
+    "version": "1.0.0",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/scsm-ua/gaudiya-gitanjali-ru.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/scsm-ua/gaudiya-gitanjali-ru/issues"
+    },
+    "homepage": "https://github.com/scsm-ua/gaudiya-gitanjali-ru#readme"
+  }

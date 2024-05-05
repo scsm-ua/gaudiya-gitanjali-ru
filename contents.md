@@ -179,14 +179,14 @@
 - [Шри Нрсимха-пранам](songs/namas-te-narasimhaya.md)
 - [Шри Шри Дамодараштакам](songs/namamishvaram-sachchidananda-rupam.md)
 - [Шриман Махапрабхур шата-нама](songs/nadiya-nagare-nitai-neche-neche-gay-re.md)
-- [Шри Кршнера Вимсоттара-шата-нама](songs/jashomati-stanya-payi-shri-nanda-nandana.md)
+- [Шри Кршнера Вимсоттара-шата-нама](songs/nagare-nagare-gora-gay.md)
 - [Шри Хари-васара-гити](songs/shri-hari-vasare-hari-kirtana-vidhana.md)
 - [Шуддха-бхаката](songs/shiuddha-bhakata-charana-renu.md)
 - [Шри Гаура-пурнима](songs/chaudda-shiata-sata-shiake-masa-je-phalgun.md)
 - [Прабху кохе](songs/prabhu-kohe-kohilan-ei-mahamantra.md)
 - [После парикрамы](songs/nagara-bhramiya-amara-gaura-elo-ghore.md)
 - [Шри Нагара-киртана (песнь 4)](songs/radha-krishna-bol-bol-bolo-re-sobai.md)
-- [Шри Нагара-киртана (песнь 8)](songs/elo-re-gauranga-chanda-preme-elothelo.md)
+- [Шри Нагара-киртана (песнь 8)](songs/hari-bole-modera-gaura-elo.md)
 
 ### Произведения Шрилы Шридхара Махараджа
 

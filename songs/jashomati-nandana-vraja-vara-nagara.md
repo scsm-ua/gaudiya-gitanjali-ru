@@ -40,6 +40,8 @@
 
 [Шрила Говинда Махарадж](https://soundcloud.com/huron/2ba7k81lbvtf)
 
+[Шрила Говинда Махарадж](https://soundcloud.com/huron/11-sri-nama-kirtan)
+
 [Шрипад Бхагават Махарадж](https://soundcloud.com/huron/jx8ixbcd4foj)
 
 

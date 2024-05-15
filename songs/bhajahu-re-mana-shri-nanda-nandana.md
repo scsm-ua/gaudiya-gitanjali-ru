@@ -41,5 +41,7 @@
 
 [Шрила Говинда Махарадж](https://soundcloud.com/huron/h4olzy0jfkgj)
 
+[Шрила Говинда Махарадж](https://soundcloud.com/huron/09-bajahu-re-mana)
+
 
 > page = 146

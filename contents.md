@@ -113,7 +113,7 @@
 - [Э гхора самсаре](songs/e-ghora-samsare-podiya-manava.md)
 - [Ваишнава ке? «Кто подлинный вайшнав?»](songs/dushta-mana-tumi-kisera-vaishnava.md)
 - [Даинйатмика](songs/emona-durmati-samsara-bhitore.md)
-- [Гоптртве Варана](songs/ki-jani-ki-bale-tomara-dhamete.md)
+- [Гоптритве Варана](songs/ki-jani-ki-bale-tomara-dhamete.md)
 - [Даинйа](songs/bhuliya-tomare-samsare-asiya.md)
 - [Бхаджан-Лаласа](songs/hari-he-prapanche-podiya-agati-hoiya.md)
 - [Ишта-деве Виджнапти](songs/hari-hari-biphole-janama-goyainu.md)

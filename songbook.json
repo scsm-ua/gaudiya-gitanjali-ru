@@ -11,8 +11,17 @@
         "Contents": "Содержание",
         "Index": "Индекс",
         "Vaishnava Songbook": "Вайшнавский песенник",
-        "bookListPage": {
-            "songCount": "песен"
+        "BOOK_LIST_PAGE": {
+            "SONG_COUNT": "песен"
+        },
+        "FOOTER": {
+            "BOOKS": "Книги",
+            "CONTENTS": "Содержание",
+            "INDEX": "Индекс",
+            "SEARCH": "Поиск"
+        },
+        "SONG_PAGE": {
+            "SHARE_SONG": "Поделиться песней"
         }
     }
 }

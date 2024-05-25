@@ -21,7 +21,11 @@
             "SEARCH": "Поиск"
         },
         "SONG_PAGE": {
-            "SHARE_SONG": "Поделиться песней"
+            "CLOSE": "Закрыть",
+            "NEXT_SONG": "Следующая песня",
+            "PREVIOUS_SONG": "Предыдущая песня",
+            "SHARE_SONG": "Поделиться песней",
+            "SHOW_TRANSLATION": "Показывать перевод"
         }
     }
 }

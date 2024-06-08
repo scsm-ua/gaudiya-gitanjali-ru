@@ -1,35 +1,5 @@
 {
     "title": "Гаудия Гитанджали",
     "subtitle": "Cборник вайшнавских песен и молитв",
-    "slug": "ru",
-    "i18n": {
-        "Books": "Книги",
-        "Search": "Поиск",
-        "Share song": "Поделиться песней",
-        "Share": "Поделиться",
-        "Copy page address": "Скопировать адрес",
-        "Contents": "Содержание",
-        "Index": "Индекс",
-        "Vaishnava Songbook": "Вайшнавский песенник",
-        "BOOK_LIST_PAGE": {
-            "SONG_COUNT": "песен"
-        },
-        "FOOTER": {
-            "BOOKS": "Книги",
-            "CONTENTS": "Содержание",
-            "INDEX": "Индекс",
-            "SEARCH": "Поиск"
-        },
-        "SONG_PAGE": {
-            "CLOSE": "Закрыть",
-            "COPY": "Копировать",
-            "COPY_LINK": "Копировать ссылку на страницу",
-            "NEXT_SONG": "Следующая песня",
-            "OTHER_TRANSLATIONS": "Смотреть другие переводы",
-            "PREVIOUS_SONG": "Предыдущая песня",
-            "SHARE": "Поделиться",
-            "SHARE_SONG": "Поделиться песней",
-            "SHOW_TRANSLATION": "Показывать перевод"
-        }
-    }
+    "slug": "ru"
 }

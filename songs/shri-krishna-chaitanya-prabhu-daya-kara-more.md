@@ -63,5 +63,6 @@
 
 [Шрипад Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-sri-krsna)
 
+[НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-sri-krishna-1)
 
 > page = 75

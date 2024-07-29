@@ -77,5 +77,6 @@
 
 [Шрипад Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-vibhavari)
 
+[НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-vibhavari-sesa)
 
 > page = 52

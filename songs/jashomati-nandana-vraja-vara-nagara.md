@@ -46,6 +46,8 @@
 
 [Шрипад Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-yasomati)
 
+[НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-jasomati-nandana)
+
 
 > page = 39
 > page = 60

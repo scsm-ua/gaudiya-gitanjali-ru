@@ -42,6 +42,10 @@
 
 [Шрила Шридхар Махарадж](https://soundcloud.com/huron/3-12)
 
+[НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-gurudev-morning)
+
+[НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-gurudev)
+
 
 > page = 41
 

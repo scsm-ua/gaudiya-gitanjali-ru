@@ -54,5 +54,7 @@
 
 [Шрила Говинда Махарадж](https://soundcloud.com/huron/15-dainya-prarthana-giti)
 
+[НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-kobe-sri)
+
 
 > page = 118

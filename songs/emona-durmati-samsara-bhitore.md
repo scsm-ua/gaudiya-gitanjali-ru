@@ -66,5 +66,7 @@
 
 [Шрипад Госвами Махрадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-emona-durmati)
 
+[НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-emona-durmati)
+
 
 > page = 154

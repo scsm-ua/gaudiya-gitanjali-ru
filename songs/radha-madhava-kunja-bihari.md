@@ -14,5 +14,7 @@
 
 [Шрила Говинда Махарадж](https://soundcloud.com/huron/12-jaya-radha-madhava)
 
+[Шрипад Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-jaya-radha)
+
 
 > page = 203

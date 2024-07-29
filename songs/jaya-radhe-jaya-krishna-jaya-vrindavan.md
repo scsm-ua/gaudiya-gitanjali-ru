@@ -82,5 +82,7 @@
 
 [Шрила Говинда Махарадж](https://soundcloud.com/huron/17-sri-braja-dhama-mahimamrita)
 
+[Шрипад Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-jaya-radhe)
+
 
 > page = 206

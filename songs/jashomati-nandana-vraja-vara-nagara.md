@@ -44,6 +44,8 @@
 
 [Шрипад Бхагават Махарадж](https://soundcloud.com/huron/jx8ixbcd4foj)
 
+[Шрипад Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-yasomati)
+
 
 > page = 39
 > page = 60

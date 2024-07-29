@@ -31,5 +31,9 @@
 
 Несомненно, жизнь скоротечна, а ты не поклоняешься Хришикеше, Повелителю чувств. Бхактивинод умоляет тебя: хотя бы раз вкуси *нама-расу*, нектар Святого Имени!
 
+[Шрипад Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-gay-gora-1) 
+
+[Шрипад Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-gay-gora)
+
 
 > page = 122

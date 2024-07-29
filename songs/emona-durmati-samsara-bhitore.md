@@ -64,5 +64,7 @@
 
 [Шрила Ачарья Махарадж](https://soundcloud.com/bharatimaharaj/acharya-maharaj-emona-durmati)
 
+[Шрипад Госвами Махрадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-emona-durmati)
+
 
 > page = 154

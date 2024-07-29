@@ -52,6 +52,7 @@
 
 [Шрила Говинда Махарадж](https://soundcloud.com/huron/i5l3uyv5buqo)
 
+[Шрила Ачарья Махарадж](https://soundcloud.com/bharatimaharaj/acharya-maharaj-sri-guru)
 
 > page = 74
 > verse parentheses = non bold

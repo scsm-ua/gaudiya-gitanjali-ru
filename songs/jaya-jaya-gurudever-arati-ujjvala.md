@@ -117,6 +117,8 @@
 
 [НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-jaya-jaya)
 
+[КАРАКАС-ДХАМ](https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhaya-dzhaya)
+
 
 > page = 44
 > page = 70

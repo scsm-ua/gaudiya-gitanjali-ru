@@ -48,6 +48,8 @@
 
 [НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-jasomati-nandana)
 
+[КАРАКАС-ДХАМ](https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhashomati)
+
 
 > page = 39
 > page = 60

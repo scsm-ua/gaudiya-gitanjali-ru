@@ -58,7 +58,7 @@
 О Господь, услышав эти слова, Бхактивинод зарыдал, моля о живительной сени Твоих лотосоподобных стоп и рассказывая историю своей жизни.
 
 
-[Шрила Шридхар Махарадж](https://soundcloud.com/huron/2-14)
+[Шрила Шридхар Махарадж](https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-govinda-7)
 
 [Шрипад Бхагават Махарадж](https://soundcloud.com/huron/sn94octfzkfp)
 
@@ -67,6 +67,8 @@
 [Шрипад Госвами Махрадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-emona-durmati)
 
 [НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-emona-durmati)
+
+[КАРАКАС-ДХАМ](https://soundcloud.com/bharatimaharaj/shchsm-karakas-emona-durmati)
 
 
 > page = 154

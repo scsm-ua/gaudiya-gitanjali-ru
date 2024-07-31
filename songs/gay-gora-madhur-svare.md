@@ -35,5 +35,7 @@
 
 [Шрипад Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-gay-gora)
 
+[КАРАКАС-ДХАМ](https://soundcloud.com/bharatimaharaj/shchsm-karakas-gai-gora-madxur)
+
 
 > page = 122

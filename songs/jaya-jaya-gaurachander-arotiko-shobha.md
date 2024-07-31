@@ -87,6 +87,8 @@
 
 [НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-kiba-jaya-jaya)
 
+[КАРАКАС-ДХАМ](https://soundcloud.com/bharatimaharaj/shchsm-karakas-gaura-arati-i)
+
 
 > page = 64
 

@@ -109,5 +109,7 @@
 
 [Шрипад Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-sri-sri-sad)
 
+[Шрипад Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-sri-sri-sad)
+
 
 > page = 141

@@ -67,4 +67,6 @@
 
 [НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-sri-krishna)
 
+[Шрипад Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-sri-krishna)
+
 > page = 75

@@ -88,5 +88,7 @@
 
 [КАРАКАС-ДХАМ](https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhaya-radxe)
 
+[Шрипад Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-jaya-radhe)
+
 
 > page = 206

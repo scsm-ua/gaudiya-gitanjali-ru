@@ -51,5 +51,6 @@
 
 [Шрипад Бхагават Махарадж](https://soundcloud.com/huron/h2r6wvowp81w)
 
+[Шрипад Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-vaishnava)
 
 > page = 136

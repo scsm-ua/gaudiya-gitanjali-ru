@@ -50,6 +50,7 @@
 
 [КАРАКАС-ДХАМ](https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhashomati)
 
+[Шрипад Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-day-programm-kisel)
 
 > page = 39
 > page = 60

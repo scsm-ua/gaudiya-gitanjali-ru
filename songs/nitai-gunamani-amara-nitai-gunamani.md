@@ -42,5 +42,7 @@
 
 [НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-nitai-guna-mani)
 
+[Сударшан Прабху](https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-nitai)
+
 
 > page = 113

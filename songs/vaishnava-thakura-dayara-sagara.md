@@ -61,6 +61,7 @@
 
 [НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-ohe-vaisnava)
 
+[Сударшан Прабху](https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-ohe-vaishnava)
 
 > page = 76
 

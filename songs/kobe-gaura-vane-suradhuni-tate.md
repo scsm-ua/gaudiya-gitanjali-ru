@@ -41,5 +41,7 @@
 
 [Шрила Шридхар Махарадж](https://soundcloud.com/huron/9-1-1)
 
+[Сударшан Прабху](https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-siddhi-lalasa)
+
 
 > page = 123

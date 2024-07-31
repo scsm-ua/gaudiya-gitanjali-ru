@@ -70,5 +70,7 @@
 
 [КАРАКАС-ДХАМ](https://soundcloud.com/bharatimaharaj/shchsm-karakas-emona-durmati)
 
+[Сударшан Прабху](https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-dainyatmika)
+
 
 > page = 154

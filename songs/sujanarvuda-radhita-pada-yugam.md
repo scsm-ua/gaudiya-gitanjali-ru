@@ -106,5 +106,7 @@
 
 [Шрила Говинда Махарадж](https://soundcloud.com/huron/01-sri-sri-prabhupada-padma)
 
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-prabxupada)
+
 
 > page = 78

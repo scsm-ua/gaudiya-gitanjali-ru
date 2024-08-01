@@ -79,5 +79,6 @@
 
 [НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-hari-haraye)
 
+[Шрипад Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-xari-xaraje)
 
 > page = 55

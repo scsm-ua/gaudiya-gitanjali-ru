@@ -38,9 +38,13 @@
 Гуляя по берегам реки Ямуны, Кришна похищает одежды купающихся юных *гопи*. Он наслаждается сладостью танца *расы*. Он очень милостив! Кришна — единственный возлюбленный Шримати Радхарани! Он самый лучший танцор Вриндавана и высочайшее прибежище Шрилы Бхактивинода Тхакура!
 
 
-[Шрила Говинда Махарадж](https://soundcloud.com/huron/2ba7k81lbvtf)
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-jasomati)
 
-[Шрила Говинда Махарадж](https://soundcloud.com/huron/11-sri-nama-kirtan)
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-yasomati-2)
+
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-yasomati-1)
+
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-yasomati)
 
 [Шрипад Бхагават Махарадж](https://soundcloud.com/huron/jx8ixbcd4foj)
 

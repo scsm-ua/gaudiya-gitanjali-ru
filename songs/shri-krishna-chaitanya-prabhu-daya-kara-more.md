@@ -61,6 +61,8 @@
 
 [Шрила Говинда Махарадж](https://soundcloud.com/huron/06-savarana-sri-gaura-pada)
 
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-savarana-sri)
+
 [Шрипад Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-sri-krsna)
 
 [НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-sri-krishna-1)

@@ -30,6 +30,8 @@
 
 О Ты, исполненная сострадания! Ты, чьи божественные качества воспеты великими мудрецами Санакой и Санатаной! О Радха, молю, будь милостива ко мне!
 
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-radhe-jaya)
+
 [Шрила Шридхар Махарадж](https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-govinda)
 
 [Шрипад Бхагават Махарадж](https://soundcloud.com/huron/z2xu5ntuzhgs)

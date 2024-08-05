@@ -74,6 +74,10 @@
 
 Господь Дамодар, прими мое почтение ослепительно сверкающей веревке, обвязывающей Твой живот, в котором покоится вся Вселенная. Я смиренно склоняюсь перед Той, Кого Ты любишь больше всех — перед Шримати Радхарани! Наконец я выражаю почтение Тебе, Всевышний, являющий Свои бесконечные деяния!
 
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-damodarastakam)
+
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-sri-sri-1)
+
 [Шрипад Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh)
 
 

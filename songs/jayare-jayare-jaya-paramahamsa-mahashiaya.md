@@ -193,7 +193,7 @@
 
 [Шрила Шридхар Махарадж](https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-govinda-8)
 
-[Шрила Говинда Махарадж](https://soundcloud.com/huron/03-acharyya-vandana)
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-acharya)
 
 
 > page = 221

@@ -73,7 +73,7 @@
 Желая обрести прибежище лотосоподобных стоп Шри Гуру и вайшнавов, Нароттам Дас поет *санкиртану* Святого Имени!
 
 
-[Шрила Говинда Махарадж](https://soundcloud.com/huron/16-nama-sankirtan)
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-hari-haraye)
 
 [Шрипад Бхагават Махарадж](https://soundcloud.com/huron/jwfephvins2j)
 

@@ -47,7 +47,7 @@
 Надеюсь, что в каждой жизни я буду обретать пыль с твоих лотосоподобных стоп. Шри Нароттам молит: «Вайшнав Госвами, будь милостив ко мне!»
 
 
-[Шрила Говинда Махарадж](https://soundcloud.com/huron/14-vaisnava-vigyapti)
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-ei-baro-koruna)
 
 [Шрипад Бхагават Махарадж](https://soundcloud.com/huron/h2r6wvowp81w)
 

@@ -80,7 +80,7 @@
 Всегда помня о лотосоподобных стопах супруги Господа Нитьянанды, Шри Джахнавы Деви, этот падший и недостойный слуга Кришны поет *санкиртану* Святого Имени!
 
 
-[Шрила Говинда Махарадж](https://soundcloud.com/huron/17-sri-braja-dhama-mahimamrita)
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-jaya-radhe)
 
 [Шрипад Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-jaya-radhe)
 

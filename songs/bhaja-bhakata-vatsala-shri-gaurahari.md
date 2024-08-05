@@ -131,6 +131,8 @@
 
 [Шрила Говинда Махарадж](https://soundcloud.com/huron/10-sri-bhoga-arati-giti)
 
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-sri-bhoga)
+
 [НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-bhaja-bhakata)
 
 [КАРАКАС-ДХАМ](https://soundcloud.com/bharatimaharaj/shchsm-karakas-bxadzha-bxakata)

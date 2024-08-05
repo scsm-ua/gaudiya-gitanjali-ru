@@ -57,6 +57,7 @@
 
 О Господь, услышав эти слова, Бхактивинод зарыдал, моля о живительной сени Твоих лотосоподобных стоп и рассказывая историю своей жизни.
 
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-emona-durmati)
 
 [Шрила Шридхар Махарадж](https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-govinda-7)
 

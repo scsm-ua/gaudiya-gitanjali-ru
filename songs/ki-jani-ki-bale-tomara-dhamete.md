@@ -59,7 +59,7 @@
 Рыдая, Бхактивинод находит приют у Твоих лотосоподобных стоп. Прости ему оскорбления, позволь вкусить Твое Святое Имя и поддержи его!
 
 
-[Шрила Говинда Махарадж](https://soundcloud.com/huron/08-goptritve-varana)
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-goptritve)
 
 [Cударшан Прабху](https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-goptrtve)
 

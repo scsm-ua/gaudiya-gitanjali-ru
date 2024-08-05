@@ -81,7 +81,7 @@
 Одарите меня своей милостью! Шри Бхактивинод, Шри Сарасвати Тхакур, Гурудев, спаситель падших! Господь Гаурахари со Своими спутниками, пожалуйста, даруйте мне Свою милость.
 
 
-[Шрила Говинда Махарадж](https://soundcloud.com/huron/kattoutl7x2r)
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-kiba-jaya-jaya)
 
 [Шрипад Бхагават Махарадж](https://soundcloud.com/huron/eoaoufmrqghi)
 

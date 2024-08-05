@@ -61,7 +61,7 @@
 
 [Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-goptritve)
 
-[Cударшан Прабху](https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-goptrtve)
+[Сударшан Прабху](https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-goptrtve)
 
 
 > page = 155

@@ -52,7 +52,7 @@
 
 [НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-kobe-sri)
 
-[Шрипад Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-shri-tulasi)
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-shri-tulasi)
 
 
 > page = 69

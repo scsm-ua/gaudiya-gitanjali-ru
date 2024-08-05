@@ -57,6 +57,6 @@
 
 [КАРАКАС-ДХАМ](https://soundcloud.com/bharatimaharaj/shchsm-karakas-bxadzha-re-amar)
 
-[Шрипад Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-bxadzha-re)
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-bxadzha-re)
 
 > page = 51

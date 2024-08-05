@@ -78,7 +78,7 @@
 
 [Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-sri-sri-1)
 
-[Шрипад Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh)
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh)
 
 
 > page = 229

@@ -15,32 +15,32 @@
 
 [КАРАКАС-ДХАМ](https://soundcloud.com/bharatimaharaj/shchsm-karakas-kirtan)
 
-[Шрипад Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-utrennee-3)
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-utrennee-3)
 
-[Шрипад Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-8)
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-8)
 
-[Шрипад Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-7)
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-7)
 
-[Шрипад Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-2016)
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-2016)
 
-[Шрипад Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-shri)
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-shri)
 
-[Шрипад Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-6)
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-6)
 
-[Шрипад Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-5)
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-5)
 
-[Шрипад Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-4)
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-4)
 
-[Шрипад Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-3)
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-3)
 
-[Шрипад Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kiev-2002)
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kiev-2002)
 
-[Шрипад Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-v)
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-v)
 
-[Шрипад Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-2)
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-2)
 
-[Шрипад Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-1)
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-1)
 
-[Шрипад Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan)
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan)
 
 > page = 24

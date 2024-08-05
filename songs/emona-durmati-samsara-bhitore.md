@@ -73,9 +73,9 @@
 
 [Сударшан Прабху](https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-dainyatmika)
 
-[Шрипад Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-emona)
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-emona)
 
-[Шрипад Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-emona-1)
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-emona-1)
 
 
 > page = 154

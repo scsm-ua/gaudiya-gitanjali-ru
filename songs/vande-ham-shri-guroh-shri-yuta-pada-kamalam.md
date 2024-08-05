@@ -23,9 +23,9 @@
 
 [Шрила Ачарья Махарадж](https://soundcloud.com/bharatimaharaj/acharya-maharaj-vandana)
 
-[Шрипад Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-vandana)
+[Шрила Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-vandana)
 
-[Шрипад Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-vandana)
+[Шрила Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-vandana)
 
 
 > page = 11

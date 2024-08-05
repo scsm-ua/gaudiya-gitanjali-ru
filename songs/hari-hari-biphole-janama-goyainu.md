@@ -40,7 +40,7 @@
 
 [Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-hari-hari)
 
-[КАРАКАС-ДХАМ](https://soundcloud.com/bharatimaharaj/shchsm-karakas-xari-xari)
+[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-xari-xari)
 
 
 > page = 159

@@ -43,7 +43,7 @@
 
 [Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-bhajahu-re)
 
-[КАРАКАС-ДХАМ](https://soundcloud.com/bharatimaharaj/shchsm-karakas-bxadzhaxu-re)
+[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-bxadzhaxu-re)
 
 
 > page = 146

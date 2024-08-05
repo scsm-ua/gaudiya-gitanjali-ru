@@ -94,9 +94,9 @@
 Слава Шри Гуру, Господу Гауранге, Шри Радхе и прекрасному Господу Говинде! Преданные, воспевайте Их славу всегда и везде!
 
 
-[НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-kiba-jaya-jaya)
+[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-kiba-jaya-jaya)
 
-[КАРАКАС-ДХАМ](https://soundcloud.com/bharatimaharaj/shchsm-karakas-gaura-arati-i)
+[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-gaura-arati-i)
 
 
 > page = 66

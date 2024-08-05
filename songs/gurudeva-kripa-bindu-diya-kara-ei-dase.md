@@ -45,11 +45,11 @@
 
 [Шрила Шридхар Махарадж](https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-govinda-6)
 
-[НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-gurudev-morning)
+[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-gurudev-morning)
 
-[НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-gurudev)
+[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-gurudev)
 
-[КАРАКАС-ДХАМ](https://soundcloud.com/bharatimaharaj/shchsm-karakas-gurudev)
+[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-gurudev)
 
 [Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-utrennee-2)
 

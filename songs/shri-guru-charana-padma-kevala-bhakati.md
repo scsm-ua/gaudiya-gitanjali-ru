@@ -54,7 +54,7 @@
 
 [Шрила Ачарья Махарадж](https://soundcloud.com/bharatimaharaj/acharya-maharaj-sri-guru)
 
-[НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-sri-guru-charana)
+[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-sri-guru-charana)
 
 > page = 74
 > verse parentheses = non bold

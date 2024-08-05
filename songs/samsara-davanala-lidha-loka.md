@@ -84,7 +84,7 @@
 Тот, кто с чистым сердцем воспевает эти восемь молитв духовному учителю в *брахма-мухурту* (девяносто шесть минут до восхода солнца), обретет служение Владыке Вриндавана.
 
 
-[НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-samsara-davanala)
+[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-samsara-davanala)
 
 
 > page = 48

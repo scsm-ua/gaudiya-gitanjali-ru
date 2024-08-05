@@ -68,8 +68,8 @@
 
 Гопинатх, Бхактивинод настолько греховен, что все еще влачит материальное существование, хотя все демоны достигли Твоих лотосоподобных стоп.
 
-[Шрипад Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-gopinath-1)
+[Шрила Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-gopinath-1)
 
-[Шрипад Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-gopinath)
+[Шрила Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-gopinath)
 
 > page = 169

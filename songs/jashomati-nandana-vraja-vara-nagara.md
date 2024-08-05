@@ -48,13 +48,13 @@
 
 [Шрипад Бхагават Махарадж](https://soundcloud.com/huron/jx8ixbcd4foj)
 
-[Шрипад Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-yasomati)
+[Шрила Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-yasomati)
 
-[НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-jasomati-nandana)
+[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-jasomati-nandana)
 
-[КАРАКАС-ДХАМ](https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhashomati)
+[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhashomati)
 
-[Шрипад Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-day-programm-kisel)
+[Шрила Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-day-programm-kisel)
 
 [Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-utrennee-5)
 

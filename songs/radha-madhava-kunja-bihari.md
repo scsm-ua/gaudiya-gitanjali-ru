@@ -20,7 +20,7 @@
 
 [Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-jaya-radha)
 
-[Шрипад Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-jaya-radha)
+[Шрила Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-jaya-radha)
 
 [Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-dzhaya-1)
 

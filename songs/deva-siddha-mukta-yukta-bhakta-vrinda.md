@@ -749,7 +749,7 @@
 
 Эти молитвы были составлены в пятом веке после явления Шри Чайтаньи Махапрабху *санньяси-учеником* Шрилы Сарасвати Тхакура по имени (Шридхар Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж).
 
-[Шрипад Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-prema-dhama)
+[Шрила Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-prema-dhama)
 
 
 > page = 81

@@ -76,7 +76,7 @@
 
 Чтобы рассеять тьму невежества и благословить все души Вселенной, прекрасное Имя Кришны взошло, словно сияющее солнце!
 
-[НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-udilo-aruna-jiv)
+[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-udilo-aruna-jiv)
 
 [Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-utrennee-1)
 

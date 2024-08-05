@@ -59,7 +59,7 @@
 
 [Шрила Ачарья Махарадж](https://soundcloud.com/bharatimaharaj/acharya-maharaj-ohe-vaishnava)
 
-[НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-ohe-vaisnava)
+[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-ohe-vaisnava)
 
 [Сударшан Прабху](https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-ohe-vaishnava)
 

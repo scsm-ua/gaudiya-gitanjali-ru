@@ -115,9 +115,9 @@
 О мой владыка, проявление милости Шри Гауранги, пожалуйста, будь милостив ко мне! Твой ничтожный слуга молит об этом, поклоняясь тебе.
 
 
-[НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-jaya-jaya)
+[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-jaya-jaya)
 
-[КАРАКАС-ДХАМ](https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhaya-dzhaya)
+[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhaya-dzhaya)
 
 
 > page = 44

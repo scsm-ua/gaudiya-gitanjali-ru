@@ -11,9 +11,9 @@
 
 [Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-kobe-sri)
 
-[Шрипад Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-mahamantra)
+[Шрила Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-mahamantra)
 
-[КАРАКАС-ДХАМ](https://soundcloud.com/bharatimaharaj/shchsm-karakas-kirtan)
+[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-kirtan)
 
 [Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-utrennee-3)
 

@@ -75,9 +75,9 @@
 Господь Кришна — сама жизнь реки Ямуны. Он всегда поглощен любовными играми. Он словно сияющая луна для *гопи*, которые, подобно птицам чакора, живут благодаря лунному свету. Мой ум, прислушайся к этим словам и прославляй Шри Кришну, воспевая Его святые имена, исполненные нектарной сладости!
 
 
-[Шрипад Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-vibhavari)
+[Шрила Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-vibhavari)
 
-[НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-vibhavari-sesa)
+[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-vibhavari-sesa)
 
 [Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-vibxavari)
 

@@ -85,9 +85,9 @@
 
 [Шрипад Бхагават Махарадж](https://soundcloud.com/huron/eoaoufmrqghi)
 
-[НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-kiba-jaya-jaya)
+[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-kiba-jaya-jaya)
 
-[КАРАКАС-ДХАМ](https://soundcloud.com/bharatimaharaj/shchsm-karakas-gaura-arati-i)
+[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-gaura-arati-i)
 
 [Сударшан Прабху](https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-sri-gaura)
 

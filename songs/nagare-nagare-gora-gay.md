@@ -182,7 +182,7 @@
 Господь Чайтанья воспевает эти имена Кришны, идя от деревни к деревне. Тхакур Бхактивинод припадает к Его лотосоподобным стопам!
 
 
-[Шрипад Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-jasomati)
+[Шрила Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-jasomati)
 
 
 > page = 234

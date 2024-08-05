@@ -63,7 +63,7 @@
 
 [Шрипад Бхагават Махарадж](https://soundcloud.com/huron/8-10)
 
-[КАРАКАС-ДХАМ](https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-573711371)
+[Каракас Дхам](https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-573711371)
 
 
 > page = 198

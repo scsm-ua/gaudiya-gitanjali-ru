@@ -60,7 +60,7 @@
 
 [Шрила Шридхар Махарадж](https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-govinda-5)
 
-[Шрипад Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-day-programm-kisel)
+[Шрила Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-day-programm-kisel)
 
 
 > page = 199

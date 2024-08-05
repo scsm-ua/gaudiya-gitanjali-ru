@@ -82,13 +82,13 @@
 
 [Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-jaya-radhe)
 
-[Шрипад Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-jaya-radhe)
+[Шрила Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-jaya-radhe)
 
-[КАРАКАС-ДХАМ](https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhaya-radxe-1)
+[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhaya-radxe-1)
 
-[КАРАКАС-ДХАМ](https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhaya-radxe)
+[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhaya-radxe)
 
-[Шрипад Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-jaya-radhe)
+[Шрила Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-jaya-radhe)
 
 
 > page = 206

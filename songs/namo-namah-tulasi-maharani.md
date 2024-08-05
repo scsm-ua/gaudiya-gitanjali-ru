@@ -50,7 +50,7 @@
 
 [Шрипад Бхагават Махарадж](https://soundcloud.com/huron/zyduuvl10hcp)
 
-[НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-kobe-sri)
+[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-kobe-sri)
 
 [Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-shri-tulasi)
 

@@ -65,11 +65,11 @@
 
 [Шрила Ачарья Махарадж](https://soundcloud.com/bharatimaharaj/acharya-maharaj-emona-durmati)
 
-[Шрипад Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-emona-durmati)
+[Шрила Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-emona-durmati)
 
-[НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-emona-durmati)
+[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-emona-durmati)
 
-[КАРАКАС-ДХАМ](https://soundcloud.com/bharatimaharaj/shchsm-karakas-emona-durmati)
+[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-emona-durmati)
 
 [Сударшан Прабху](https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-dainyatmika)
 

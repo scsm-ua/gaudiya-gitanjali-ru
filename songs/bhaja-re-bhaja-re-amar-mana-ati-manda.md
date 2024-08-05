@@ -53,9 +53,9 @@
 
 Всегда помни о Шриле Кави Карнапуре и всех членах его семьи, искренних слугах Господа Шри Чайтаньи Махапрабху. Ты должен чтить отца Кави Карнапура, Шивананду Сена. Всегда помни, всегда помни Шри Карнапура и его семью! Ты должен помнить всех вайшнавов, строго следующих пути Шри Рупы Госвами и погруженных в экстаз *бхаджана*. Если ты действительно хочешь жить во Врадже, ты должен помнить всех вайшнавов, последователей Шрилы Рупы Госвами!
 
-[НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-bhajare)
+[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-bhajare)
 
-[КАРАКАС-ДХАМ](https://soundcloud.com/bharatimaharaj/shchsm-karakas-bxadzha-re-amar)
+[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-bxadzha-re-amar)
 
 [Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-bxadzha-re)
 

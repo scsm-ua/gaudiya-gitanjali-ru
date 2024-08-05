@@ -133,9 +133,9 @@
 
 [Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-sri-bhoga)
 
-[НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-bhaja-bhakata)
+[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-bhaja-bhakata)
 
-[КАРАКАС-ДХАМ](https://soundcloud.com/bharatimaharaj/shchsm-karakas-bxadzha-bxakata)
+[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-bxadzha-bxakata)
 
 
 > page = 58

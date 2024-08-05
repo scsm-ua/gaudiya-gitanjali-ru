@@ -121,9 +121,9 @@
 
 [Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-sri-guru-arati)
 
-[НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-jaya-guru)
+[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-jaya-guru)
 
-[КАРАКАС-ДХАМ](https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhaya-guru-1)
+[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhaya-guru-1)
 
 > page = 46
 

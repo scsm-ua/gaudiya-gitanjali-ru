@@ -54,7 +54,7 @@
 
 [Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-kobe-sri)
 
-[НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-kobe-sri)
+[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-kobe-sri)
 
 
 > page = 118

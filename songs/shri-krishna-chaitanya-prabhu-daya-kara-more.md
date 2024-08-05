@@ -63,12 +63,12 @@
 
 [Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-savarana-sri)
 
-[Шрипад Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-sri-krsna)
+[Шрила Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-sri-krsna)
 
-[НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-sri-krishna-1)
+[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-sri-krishna-1)
 
-[НАВАДВИП-ДХАМ](https://soundcloud.com/bharatimaharaj/navadwip-scsm-sri-krishna)
+[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-sri-krishna)
 
-[Шрипад Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-sri-krishna)
+[Шрила Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-sri-krishna)
 
 > page = 75

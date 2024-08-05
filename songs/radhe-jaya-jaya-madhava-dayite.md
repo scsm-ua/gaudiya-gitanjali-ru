@@ -36,7 +36,7 @@
 
 [Шрипад Бхагават Махарадж](https://soundcloud.com/huron/z2xu5ntuzhgs)
 
-[Шрипад Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-radhe-jaya)
+[Шрила Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-radhe-jaya)
 
 
 > page = 200

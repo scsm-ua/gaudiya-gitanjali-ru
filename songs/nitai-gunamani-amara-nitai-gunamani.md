@@ -38,8 +38,6 @@
 Лочан Дас говорит: «Всякий, кто не поклоняется Господу Нитаю и не принимает дара, который Тот принес, осознанно совершает самоубийство».
 
 
-[Шрипад Бхагават Махарадж](https://soundcloud.com/huron/ektsmibympc1)
-
 [Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-nitai-guna-mani)
 
 [Сударшан Прабху](https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-nitai)

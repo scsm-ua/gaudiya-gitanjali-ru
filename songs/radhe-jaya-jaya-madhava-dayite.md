@@ -34,8 +34,6 @@
 
 [Шрила Шридхар Махарадж](https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-govinda)
 
-[Шрипад Бхагават Махарадж](https://soundcloud.com/huron/z2xu5ntuzhgs)
-
 [Шрила Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-radhe-jaya)
 
 

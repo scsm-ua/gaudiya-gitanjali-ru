@@ -83,8 +83,6 @@
 
 [Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-kiba-jaya-jaya)
 
-[Шрипад Бхагават Махарадж](https://soundcloud.com/huron/eoaoufmrqghi)
-
 [Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-kiba-jaya-jaya)
 
 [Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-gaura-arati-i)

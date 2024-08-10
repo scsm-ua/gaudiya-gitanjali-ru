@@ -49,8 +49,6 @@
 
 [Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-ei-baro-koruna)
 
-[Шрипад Бхагават Махарадж](https://soundcloud.com/huron/h2r6wvowp81w)
-
 [Шрила Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-vaishnava)
 
 > page = 136

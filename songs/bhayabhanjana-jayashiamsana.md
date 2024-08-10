@@ -59,8 +59,4 @@
 
 [Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-sri-dayita)
 
-[Шрила Шридхар Махарадж](https://soundcloud.com/huron/7-9)
-
-[Шрила Говинда Махарадж](https://soundcloud.com/huron/02-sri-dayita-das-pranati)
-
 > page = 219

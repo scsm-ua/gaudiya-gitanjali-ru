@@ -56,7 +56,5 @@
 
 [Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-sri-rupa)
 
-[Шрила Шридхар Махарадж](https://soundcloud.com/huron/10-12)
-
 
 > page = 173

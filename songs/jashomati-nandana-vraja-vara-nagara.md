@@ -46,8 +46,6 @@
 
 [Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-yasomati)
 
-[Шрипад Бхагават Махарадж](https://soundcloud.com/huron/jx8ixbcd4foj)
-
 [Шрила Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-yasomati)
 
 [Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-jasomati-nandana)

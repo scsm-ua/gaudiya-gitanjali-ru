@@ -75,8 +75,6 @@
 
 [Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-hari-haraye)
 
-[Шрипад Бхагават Махарадж](https://soundcloud.com/huron/jwfephvins2j)
-
 [Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-hari-haraye)
 
 [Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-xari-xaraje)

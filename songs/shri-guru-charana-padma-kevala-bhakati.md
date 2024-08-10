@@ -50,8 +50,6 @@
 Я предался, предался твоим лотосоподобным стопам! Пожалуйста, будь милостив. Шри Гурудев, спаситель падших, пожалуйста, даруй мне свою милость. Ты — спаситель падших душ! Слава тебе, Шри Гурудев!
 
 
-[Шрила Говинда Махарадж](https://soundcloud.com/huron/i5l3uyv5buqo)
-
 [Шрила Ачарья Махарадж](https://soundcloud.com/bharatimaharaj/acharya-maharaj-sri-guru)
 
 [Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-sri-guru-charana)

@@ -73,7 +73,5 @@
     нита̄и-гаура-према̄нанде харибол!
 
 
-[Шрила Говинда Махарадж](https://soundcloud.com/huron/gmscggobo8nw)
-
 
 > page = 22

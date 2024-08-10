@@ -55,8 +55,6 @@
 Шесть видов святого общения: предлагать дары из милосердия, принимать пожертвования, доверять свои мысли другим, слушать о сокровенном от других, принимать *прасадам* и предлагать *прасадам*.
 
 
-[Шрила Говинда Махарадж](https://soundcloud.com/huron/13-sri-vaisnava-mahima-giti)
-
 [Шрила Ачарья Махарадж](https://soundcloud.com/bharatimaharaj/acharya-maharaj-ohe-vaishnava)
 
 [Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-ohe-vaisnava)

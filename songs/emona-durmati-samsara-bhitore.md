@@ -61,8 +61,6 @@
 
 [Шрила Шридхар Махарадж](https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-govinda-7)
 
-[Шрипад Бхагават Махарадж](https://soundcloud.com/huron/sn94octfzkfp)
-
 [Шрила Ачарья Махарадж](https://soundcloud.com/bharatimaharaj/acharya-maharaj-emona-durmati)
 
 [Шрила Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-emona-durmati)

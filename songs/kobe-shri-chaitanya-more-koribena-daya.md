@@ -52,7 +52,9 @@
 Бхактивинод Тхакур предлагает эту молитву лотосоподобным стопам вайшнавов. «Одарите меня вашей милостью и примите эту низкую душу в ваше общество!»
 
 
-[Шрила Говинда Махарадж](https://soundcloud.com/huron/15-dainya-prarthana-giti)
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-kobe-sri)
+
+[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-kobe-sri)
 
 
 > page = 118

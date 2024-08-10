@@ -39,8 +39,19 @@
 
 Если ты внимательно посмотришь на меня, то не найдешь и следа хороших качеств. Твоя милость для меня — все! Если ты не будешь милостив ко мне, мне останется только горько оплакивать свою судьбу, и сама мысль о поддержании жизни станет мне ненавистна.
 
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-gurudev)
 
-[Шрила Шридхар Махарадж](https://soundcloud.com/huron/3-12)
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-gurudev-kripa)
+
+[Шрила Шридхар Махарадж](https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-govinda-6)
+
+[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-gurudev-morning)
+
+[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-gurudev)
+
+[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-gurudev)
+
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-utrennee-2)
 
 
 > page = 41

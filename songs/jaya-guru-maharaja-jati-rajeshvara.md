@@ -117,8 +117,13 @@
 Олицетворение Прекрасной Реальности, явленной Шри Чайтаньей Махапрабху! Твой покорный слуга радостно поет эту молитву, посвящая ее тебе.
 
 
-[Шрила Говинда Махарадж](https://soundcloud.com/huron/yv6oo6diaco2)
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-jaya-guru)
 
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-sri-guru-arati)
+
+[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-jaya-guru)
+
+[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhaya-guru-1)
 
 > page = 46
 

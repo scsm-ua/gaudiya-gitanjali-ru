@@ -58,5 +58,7 @@
 
 Бхактивинод говорит: «Кришна, услышь меня! О Повелитель Радхи, Ты — моя жизнь и душа!»
 
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-manasa-deho)
+
 
 > page = 147

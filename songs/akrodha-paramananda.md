@@ -38,4 +38,9 @@
 Лочан Дас говорит: «Тот, кто отвергает это воплощение Бога, — грешник, и он будет вынужден рождаться и умирать вновь и вновь».
 
 
+[Шрила Ачарья Махарадж](https://soundcloud.com/bharatimaharaj/acharya-maharaj-akrodha)
+
+[Шрила Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-akrodha)
+
+
 > page = 114

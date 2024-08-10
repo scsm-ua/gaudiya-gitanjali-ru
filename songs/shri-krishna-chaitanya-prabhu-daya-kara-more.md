@@ -59,7 +59,14 @@
 Молю, даруй свои благословения, Шрила Прабхупада Сарасвати Тхакур, проявление Шри Гауры! Я падший слуга и прошу о милости твоих спутников!
 
 
-[Шрила Говинда Махарадж](https://soundcloud.com/huron/06-savarana-sri-gaura-pada)
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-savarana-sri)
 
+[Шрила Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-sri-krsna)
+
+[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-sri-krishna-1)
+
+[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-sri-krishna)
+
+[Шрила Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-sri-krishna)
 
 > page = 75

@@ -39,5 +39,11 @@
 Слава Мурари Гупте, слава Мукунде Датте! Слава вечным спутникам Шри Чайтаньи Махапрабху! Воспевая славу Шрилы Прабхупады и всех великих душ, вечных спутников Шри Чайтаньи Махапрабху, даже самый недостойный может обрести наивысшее сокровище любви!
 
 
+[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhaya)
+
+[Шрила Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-day-programm-kisel)
+
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-utrennee-4)
+
 > page = 40
 > page = 61

@@ -116,9 +116,10 @@
 Такова наша величественная линия духовных наставников, которые очень дороги Шри Чайтанье Махапрабху. Мой хлеб насущный — то, что они завещали.
 
 
-[Шрила Шридхар Махарадж](https://soundcloud.com/huron/1-16)
+[Шрила Ачарья Махарадж](https://soundcloud.com/bharatimaharaj/acharya-maharaj-guru-parampara)
 
-[Шрипад Бхагават Махарадж](https://soundcloud.com/huron/zpw7ouqxyzog)
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-shri-guru)
+
 
 
 > page = 216

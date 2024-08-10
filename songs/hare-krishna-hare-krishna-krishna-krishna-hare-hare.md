@@ -9,5 +9,38 @@
 
 Из этого следует то, что в Харе Кришна *маха-мантре* нет упоминания о *рама-лиле* Айодхьи. В наивысшей концепции Харе Кришна *маха-мантры* нет никакой связи с этим… Понимание внутренней сути *мантры* ответственно за наш духовный прогресс… Это внутреннее понимание будет вести искреннюю душу к ее подлинному предназначению.
 
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-kobe-sri)
+
+[Шрила Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-mahamantra)
+
+[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-kirtan)
+
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-utrennee-3)
+
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-8)
+
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-7)
+
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-2016)
+
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-shri)
+
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-6)
+
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-5)
+
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-4)
+
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-3)
+
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kiev-2002)
+
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-v)
+
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-2)
+
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-1)
+
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan)
 
 > page = 24

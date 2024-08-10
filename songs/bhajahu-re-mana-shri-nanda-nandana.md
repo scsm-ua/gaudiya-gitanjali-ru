@@ -39,9 +39,11 @@
 Великая мечта и стремление Говинды Даса — посвятить себя девяти видам *бхакти*: слушанию о славе Господа Хари, воспеванию этой славы, постоянному памятованию о Нем и предложению молитв Ему, служению Его лотосоподобным стопам, служению Господу в качестве слуги, поклонению Ему цветами, благовониями и другими подношениями, служению Ему в качестве друга и полному вручению себя.
 
 
-[Шрила Говинда Махарадж](https://soundcloud.com/huron/h4olzy0jfkgj)
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-bhajahu-re-1)
 
-[Шрила Говинда Махарадж](https://soundcloud.com/huron/09-bajahu-re-mana)
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-bhajahu-re)
+
+[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-bxadzhaxu-re)
 
 
 > page = 146

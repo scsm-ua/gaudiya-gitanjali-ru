@@ -10,9 +10,20 @@
 Кришна — возлюбленный Радхарани. Он забавляется в рощах Вриндавана, Он — возлюбленный юных пастушек Враджи, Он поднял огромный холм Говардхан. Он — любимый сын матери Яшоды, источник счастья жителей Враджи. Он любит гулять в лесах по берегам Ямуны.
 
 
-[Шрила Говинда Махарадж](https://soundcloud.com/huron/vqu9p656ohcy)
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-jaya-radha-4)
 
-[Шрила Говинда Махарадж](https://soundcloud.com/huron/12-jaya-radha-madhava)
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-jaya-radha-3)
 
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-jaya-radha-2)
+
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-jaya-radha-1)
+
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-jaya-radha)
+
+[Шрила Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-jaya-radha)
+
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-dzhaya-1)
+
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-dzhaya-radxa)
 
 > page = 203

@@ -40,4 +40,9 @@
 Все они ушли в свои игры. Нароттам Дас Тхакур восклицает: «Мне остается лишь оплакивать свою горькую участь, потому что я не в силах обрести их общество!»
 
 
+[Шрила Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-viraha-giti)
+
+[Шрила Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-viraha-giti)
+
+
 > page = 135

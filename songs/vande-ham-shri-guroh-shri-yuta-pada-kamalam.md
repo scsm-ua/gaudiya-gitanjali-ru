@@ -17,9 +17,11 @@
 Умастив мои глаза целительным бальзамом *самбандха-гьяны*, правильного восприятия окружающего мира, духовный учитель пробудил мое внутреннее видение и вывел меня из тьмы невежества, подарив надежду. В глубоком почтении я склоняюсь перед Шри Гурудевом.
 
 
-[Шрила Говинда Махарадж](https://soundcloud.com/huron/b177zib9xfvx)
+[Шрила Ачарья Махарадж](https://soundcloud.com/bharatimaharaj/acharya-maharaj-vandana)
 
-[Шрипад Бхагават Махарадж](https://soundcloud.com/huron/skiaktdduil9)
+[Шрила Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-vandana)
+
+[Шрила Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-vandana)
 
 
 > page = 11

@@ -50,7 +50,9 @@
 Поглощенный любовной заботой о хозяине, я не стану заботиться о своем теле. Бхактивинод принимает Тебя своим единственным покровителем.
 
 
-[Шрила Шридхар Махарадж](https://soundcloud.com/huron/4-3-1)
+[Шрила Шридхар Махарадж](https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-govinda-4)
+
+[Сударшан Прабху](https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-sarvasva)
 
 
 > page = 163

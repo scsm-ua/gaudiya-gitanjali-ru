@@ -129,7 +129,11 @@
     ш́ачи дулала джайа джайа гаура гопа̄ла
 
 
-[Шрила Говинда Махарадж](https://soundcloud.com/huron/10-sri-bhoga-arati-giti)
+[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-sri-bhoga)
+
+[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-bhaja-bhakata)
+
+[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-bxadzha-bxakata)
 
 
 > page = 58

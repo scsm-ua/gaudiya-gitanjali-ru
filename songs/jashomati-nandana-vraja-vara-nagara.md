@@ -58,5 +58,7 @@
 
 [Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-shri-nama)
 
+[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-vibxavari)
+
 > page = 39
 > page = 60

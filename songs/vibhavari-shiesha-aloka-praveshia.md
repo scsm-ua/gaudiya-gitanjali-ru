@@ -79,6 +79,4 @@
 
 [Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-vibhavari-sesa)
 
-[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-vibxavari)
-
 > page = 52

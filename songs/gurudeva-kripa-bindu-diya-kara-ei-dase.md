@@ -39,8 +39,6 @@
 
 Если ты внимательно посмотришь на меня, то не найдешь и следа хороших качеств. Твоя милость для меня — все! Если ты не будешь милостив ко мне, мне останется только горько оплакивать свою судьбу, и сама мысль о поддержании жизни станет мне ненавистна.
 
-[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-gurudev)
-
 [Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-gurudev-kripa)
 
 [Шрила Шридхар Махарадж](https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-govinda-6)

@@ -33,8 +33,6 @@
 
 [Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-3)
 
-[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kiev-2002)
-
 [Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-v)
 
 [Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-2)

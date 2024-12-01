@@ -87,7 +87,7 @@
 
 Непостижимым образом проявились Шри Шри Нитай-Чайтанья, и, по милости Шри Гурудева, эта падшая душа видит Их *арати* и присоединяется к *санкиртане! *
 
-[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhaya-radxe)
+[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhaya-guru)
 
 
 

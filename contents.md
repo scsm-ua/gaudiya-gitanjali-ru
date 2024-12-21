@@ -49,8 +49,8 @@
 ### Дневная программа
 
 - [Шри Бхога-арати Гити](songs/bhaja-bhakata-vatsala-shri-gaurahari.md)
-- Шри Нама-Киртан
-- Шри Шачинандана-вандана
+- [Шри Нама-Киртан](songs/jashomati-nandana-vraja-vara-nagara.md)
+- [Шри Шачинандана-вандана](songs/jaya-shiachinandana-sura-muni-vandana.md)
 - [Махапрасада](songs/mahaprasade-govinde-nama-brahmani.md)
 - [Шри Прасада-севайа Гити](songs/bhai-re-shorira-avidya-jal-jodendriya-tahe-kal.md)
 
@@ -58,10 +58,10 @@
 
 - [Шри Гаура-арати](songs/jaya-jaya-gaurachander-arotiko-shobha.md)
 - [Шри Сарасват-арати](songs/jayare-jayare-jaya-gaura-sarasvati.md)
-- Гурудев
+- [Гурудев](songs/gurudeva-kripa-bindu-diya-kara-ei-dase.md)
 - [Шри Туласи-парикрама-гити](songs/namo-namah-tulasi-maharani.md)
-- Шри Гуру Арати
-- Шри Гуру Арати-стути
+- [Шри Гуру Арати](songs/jaya-jaya-gurudever-arati-ujjvala.md)
+- [Шри Гуру Арати-стути](songs/jaya-guru-maharaja-jati-rajeshvara.md)
 - [Шри Гуру-ваишнава Махатмйа-гити](songs/shri-guru-charana-padma-kevala-bhakati.md)
 - [Саварана-Шри-Гаура-пада-падме Прартхана](songs/shri-krishna-chaitanya-prabhu-daya-kara-more.md)
 - [Шри Ваишнава-махима-гити](songs/vaishnava-thakura-dayara-sagara.md)

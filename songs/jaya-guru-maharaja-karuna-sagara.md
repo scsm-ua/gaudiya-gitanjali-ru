@@ -89,6 +89,7 @@
 
 [Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhaya-guru)
 
+[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-gaura-arati-i)
 
 
 > page = 36

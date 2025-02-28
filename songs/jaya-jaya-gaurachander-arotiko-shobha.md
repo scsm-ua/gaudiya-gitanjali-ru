@@ -85,8 +85,6 @@
 
 [Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-kiba-jaya-jaya)
 
-[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-gaura-arati-i)
-
 [Сударшан Прабху](https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-sri-gaura)
 
 

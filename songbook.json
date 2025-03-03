@@ -2,5 +2,10 @@
     "title": "Гаудия Гитанджали",
     "subtitle": "Cборник вайшнавских песен и молитв",
     "slug": "ru",
-    "sort_order": 20
+    "sort_order": 20,
+    "render": {
+        "tg.contents.first_line": false,
+        "tg.a-z.embeds": false,
+        "tg.a-z.pages.short": true
+    }
 }

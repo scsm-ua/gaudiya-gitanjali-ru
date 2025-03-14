@@ -66,7 +66,16 @@
 - [Саварана-Шри-Гаура-пада-падме Прартхана](songs/shri-krishna-chaitanya-prabhu-daya-kara-more.md)
 - [Шри Ваишнава-махима-гити](songs/vaishnava-thakura-dayara-sagara.md)
 - [Шри Шри Прабхупада-падма Ставаках](songs/sujanarvuda-radhita-pada-yugam.md)
-- [Шри Шри Према-дхама-дева-стотрам](songs/deva-siddha-mukta-yukta-bhakta-vrinda.md)
+
+### Шри Шри Према-дхама-дева-стотрам
+
+- [1-10. Суббота](songs/deva-siddha-mukta-yukta-bhakta-vrinda.md)
+- [11-20. Воскресенье](songs/sutra-vritti-tippanishta-sukshma-vachanadbhutam.md)
+- [21-30. Понедельник](songs/dhvasta-sarvvabhauma-vada-navya-tarka-shiankaram.md)
+- [31-40. Вторник](songs/prema-mugdha-rudra-raja-shiaurya-virya-vikramam.md)
+- [41-50. Среда](songs/prema-mugdha-nritya-kirtanakularitantikam.md)
+- [51-60. Четверг](songs/shri-sanatananu-rupa-jiva-sampradayakam.md)
+- [61-72. Пятница](songs/yamunambu-krishna-radhikali-keli-mandalam.md)
 
 ### Песни, посвященные Нитьянанде Прабху
 

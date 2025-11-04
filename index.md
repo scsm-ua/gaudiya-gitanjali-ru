@@ -10,7 +10,7 @@
 - [анйа-абхила̄ш̣а чха̄д̣и джн̃а̄на карма париха̄ри](songs/anya-abhilasha-chadi-jniana-karma-parihari.md)
 - [апара̄дха-пхоле мама читта бхела ваджра-сама](songs/aparadha-phole-mama.md)
 - [арун̣а басане сонара сӯраджа](songs/aruna-basane-sonara-suraja.md)
-- [а̄ча̄рйа-варйам̇ гаура-дха̄ма-ниш̣т̣хам̇](songs/acharya-varyyam-gaura-dhama-nishtham.md)
+- [а̄ча̄рйа-варйам̣ гаура-дха̄ма-ниш̣т̣хам̣](songs/acharya-varyam-gaura-dhama-nishtham.md)
 - [бимала хемаджини тану анупама ре!](songs/bimala-hemajini-tanu-anupama-re.md)
 - [бондху-гон̣! ш́уноха вачана мора](songs/bondhu-gon-shiunoho-vachana-mora.md)
 - [бха̄гйа̄дхӣш́а! твадӣйо бимала-сукхамайах̣](songs/bhagyadhishia-tvadiyo-vimala-sukhamayah.md)

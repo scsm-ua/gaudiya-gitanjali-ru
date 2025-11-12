@@ -95,7 +95,7 @@
 - [нама̄мӣш́варам̇ саччида̄нанда рӯпам̇](songs/namamishvaram-sachchidananda-rupam.md)
 - [намас те нарасим̇ха̄йа](songs/namas-te-narasimhaya.md)
 - [намах̣ ом̇ виш̣н̣упа̄дайа кр̣ш̣н̣а-преш̣т̣ха̄йа бхӯтале](songs/namah-om-vishnupadaya-krishna.md)
-- [намо ре намо ре ма̄ийа̄ намо на̄ра̄йан̣и](songs/namo-re-namo-re-maiya-namo-narayani.md)
+- [намо намах̣ туласӣ маха̄ра̄н̣и](songs/namo-namah-tulasi-maharani.md)
 - [науми ш́рӣ-гурупа̄да̄бджам̇, йатира̄джеш́вареш́варам](songs/naumi-shri-gurupadabjam.md)
 - [нӣте йасмин ниш́а̄нте найана-джала-бхараих̣ сна̄та-га̄тра̄рвуда̄на̄м̇](songs/nite-yasmin-nishiante-nayana-jala-bharaih.md)
 - [нита̄и гун̣аман̣и а̄ма̄ра нита̄и гун̣аман̣и](songs/nitai-gunamani-amara-nitai-gunamani.md)

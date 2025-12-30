@@ -10,5 +10,12 @@
     "bugs": {
       "url": "https://github.com/scsm-ua/gaudiya-gitanjali-ru/issues"
     },
-    "homepage": "https://github.com/scsm-ua/gaudiya-gitanjali-ru#readme"
-  }
+    "homepage": "https://github.com/scsm-ua/gaudiya-gitanjali-ru#readme",
+    "scripts": {
+      "build": "songbook-build",
+      "prepare": "npm run build"
+    },
+    "dependencies": {
+      "songbook-md-json-parser": "git+https://github.com/scsm-ua/songbook-md-json-parser.git"
+    }
+}

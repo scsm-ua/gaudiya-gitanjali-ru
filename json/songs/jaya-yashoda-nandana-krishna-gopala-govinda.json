@@ -1,0 +1,47 @@
+{
+  "title": [
+    "Джайа Джашода-Нандана Кршна"
+  ],
+  "author": [
+    "Ш́рӣла Бхактивинод Т̣ха̄кур"
+  ],
+  "verses": [
+    {
+      "number": "1",
+      "text": [
+        "(джайа) джаш́ода̄-нандана кр̣ш̣н̣а гопа̄ла говинда",
+        "(джайа) мадана-мохана хари ананта мукунда"
+      ],
+      "translation": [
+        "Слава Кришне, сыну матери Яшоды, пастушку, Который дарит счастье коровам! Слава победителю Купидона, Господу Хари, устраняющему все неблагоприятное, безграничному и дарующему освобождение!"
+      ]
+    },
+    {
+      "number": "2",
+      "text": [
+        "(джайа) ачйута ма̄дхава ра̄м вр̣нда̄вана-чандра",
+        "(джайа) муралӣ-вадана ш́йа̄ма гопӣ-джана̄нанда"
+      ],
+      "translation": [
+        "Слава непогрешимому Господу, супругу богини удачи, высшему наслаждающемуся и луне Вриндавана! Слава Кришне, держащему флейту у лотосоподобных уст, цвет тела Которого подобен цвету темно-синей грозовой тучи, Тому, Кто является блаженством *гопи*!"
+      ]
+    }
+  ],
+  "embeds": [
+    {
+      "title": "Шрила Ачарья Махарадж",
+      "embed_url": "https://soundcloud.com/bharatimaharaj/acharya-maharaj-yasoda-nandana",
+      "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Facharya-maharaj-yasoda-nandana",
+      "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Facharya-maharaj-yasoda-nandana\"></iframe>"
+    },
+    {
+      "title": "Каракас Дхам",
+      "embed_url": "https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhashoda",
+      "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fshchsm-karakas-dzhashoda",
+      "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fshchsm-karakas-dzhashoda\"></iframe>"
+    }
+  ],
+  "attributes": {
+    "page": "210"
+  }
+}

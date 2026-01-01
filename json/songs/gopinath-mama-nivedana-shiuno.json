@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 169,
+    "first_line": "гопӣна̄тх, мама ниведана ш́уно"
+  },
   "title": [
     "Ниведана"
   ],
@@ -111,8 +115,5 @@
       "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fmadhusudan-maharaj-gopinath",
       "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fmadhusudan-maharaj-gopinath\"></iframe>"
     }
-  ],
-  "attributes": {
-    "page": "169"
-  }
+  ]
 }

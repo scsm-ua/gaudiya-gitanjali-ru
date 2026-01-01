@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 101,
+    "first_line": "ш́рӣ-сана̄тана̄ну-рӯпа-джӣва-сампрада̄йакам̇"
+  },
   "title": [
     "Шри Шри Према-дхама-дева-стотрам"
   ],
@@ -140,8 +144,5 @@
       "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fmadhusudan-maharaj-prema-dhama",
       "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fmadhusudan-maharaj-prema-dhama\"></iframe>"
     }
-  ],
-  "attributes": {
-    "page": "101"
-  }
+  ]
 }

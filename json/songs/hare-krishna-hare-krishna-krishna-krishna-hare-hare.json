@@ -1,6 +1,8 @@
 {
   "meta": {
-    "author": "Ш́рӣла Бхакти Ракш̣ак Ш́рӣдхар Дев-Госва̄мӣ Маха̄ра̄дж"
+    "page": 24,
+    "author": "Ш́рӣла Бхакти Ракш̣ак Ш́рӣдхар Дев-Госва̄мӣ Маха̄ра̄дж",
+    "first_line": "харе кр̣ш̣н̣а харе кр̣ш̣н̣а кр̣ш̣н̣а кр̣ш̣н̣а харе харе"
   },
   "title": [
     "Харе Кршна маха-мантра"
@@ -111,8 +113,5 @@
       "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Favadxut-maxaradzh-kirtan",
       "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Favadxut-maxaradzh-kirtan\"></iframe>"
     }
-  ],
-  "attributes": {
-    "page": "24"
-  }
+  ]
 }

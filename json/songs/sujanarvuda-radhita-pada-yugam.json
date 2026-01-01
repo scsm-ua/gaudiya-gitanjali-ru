@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 78,
+    "first_line": "суджана̄рвуда-ра̄дхита-па̄да-йугам̇"
+  },
   "title": [
     "Шри Шри Прабхупада-падма Ставаках"
   ],
@@ -155,8 +159,5 @@
       "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Favadxut-maxaradzh-prabxupada",
       "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Favadxut-maxaradzh-prabxupada\"></iframe>"
     }
-  ],
-  "attributes": {
-    "page": "78"
-  }
+  ]
 }

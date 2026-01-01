@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 147,
+    "first_line": "ма̄наса, дехо, гехо, джо кичхӯ мора"
+  },
   "title": [
     "Манаса дехо гехо"
   ],
@@ -94,8 +98,5 @@
       "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fgovinda-maharaj-manasa-deho",
       "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fgovinda-maharaj-manasa-deho\"></iframe>"
     }
-  ],
-  "attributes": {
-    "page": "147"
-  }
+  ]
 }

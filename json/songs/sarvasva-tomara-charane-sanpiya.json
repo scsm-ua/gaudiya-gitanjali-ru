@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 163,
+    "first_line": "сарвасва тома̄ра, чаран̣е са̐пийа̄"
+  },
   "title": [
     "Сарвасва томара"
   ],
@@ -83,8 +87,5 @@
       "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fsudarshan-prabhu-sarvasva",
       "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fsudarshan-prabhu-sarvasva\"></iframe>"
     }
-  ],
-  "attributes": {
-    "page": "163"
-  }
+  ]
 }

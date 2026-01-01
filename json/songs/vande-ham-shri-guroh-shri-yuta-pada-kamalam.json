@@ -1,6 +1,8 @@
 {
   "meta": {
-    "author": "Ш́рӣла Кришнада̄с Кавира̄дж Госва̄мӣ"
+    "page": 11,
+    "author": "Ш́рӣла Кришнада̄с Кавира̄дж Госва̄мӣ",
+    "first_line": "ванде ‘хам̇ ш́рӣ-гурох̣ ш́рӣ-йута-пада-камалам̇"
   },
   "title": [
     "Вандана"
@@ -50,8 +52,5 @@
       "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fmadhusudan-maharaj-vandana",
       "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fmadhusudan-maharaj-vandana\"></iframe>"
     }
-  ],
-  "attributes": {
-    "page": "11"
-  }
+  ]
 }

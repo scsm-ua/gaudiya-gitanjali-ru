@@ -1,6 +1,8 @@
 {
   "meta": {
-    "author": "Ш́рӣла Бхакти Ракш̣ак Ш́рӣдхар Дев-Госва̄мӣ Маха̄ра̄дж"
+    "page": 268,
+    "author": "Ш́рӣла Бхакти Ракш̣ак Ш́рӣдхар Дев-Госва̄мӣ Маха̄ра̄дж",
+    "first_line": "йо ’нанто ’нанта-вактраир ниравадхи хари-сам̇кӣртанам̇ сам̇видхате"
   },
   "title": [
     "Шриман Нитйананда Двадашакам"
@@ -209,8 +211,5 @@
       "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fgovinda-maharaj-sriman",
       "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fgovinda-maharaj-sriman\"></iframe>"
     }
-  ],
-  "attributes": {
-    "page": "268"
-  }
+  ]
 }

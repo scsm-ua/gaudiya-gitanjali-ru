@@ -1,6 +1,8 @@
 {
   "meta": {
-    "author": "Ш́рӣла Бхакти Ракш̣ак Ш́рӣдхар Дев-Госва̄мӣ Маха̄ра̄дж"
+    "page": 260,
+    "author": "Ш́рӣла Бхакти Ракш̣ак Ш́рӣдхар Дев-Госва̄мӣ Маха̄ра̄дж",
+    "first_line": "нӣте йасмин ниш́а̄нте найана-джала-бхараих̣ сна̄та-га̄тра̄рвуда̄на̄м̇"
   },
   "title": [
     "Шри Шри Дайита Дас Дашакам"
@@ -178,8 +180,5 @@
       "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fgovinda-maharaj-sri-sri-dayita",
       "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fgovinda-maharaj-sri-sri-dayita\"></iframe>"
     }
-  ],
-  "attributes": {
-    "page": "260"
-  }
+  ]
 }

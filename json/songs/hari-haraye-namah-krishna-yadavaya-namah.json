@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 55,
+    "first_line": "хари харайе намах̣ кр̣ш̣н̣а джа̄дава̄йа намах̣"
+  },
   "title": [
     "Нама-санкиртан"
   ],
@@ -126,8 +130,5 @@
       "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Favadxut-maxaradzh-xari-xaraje",
       "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Favadxut-maxaradzh-xari-xaraje\"></iframe>"
     }
-  ],
-  "attributes": {
-    "page": "55"
-  }
+  ]
 }

@@ -1,4 +1,9 @@
 {
+  "meta": {
+    "page": 64,
+    "verse parentheses": "non bold",
+    "first_line": "(киба) джайа джайа гаура̄ча̄̐дер а̄ротико ш́обха̄"
+  },
   "title": [
     "Шри Гаура-арати"
   ],
@@ -129,9 +134,5 @@
       "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fsudarshan-prabhu-sri-gaura",
       "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fsudarshan-prabhu-sri-gaura\"></iframe>"
     }
-  ],
-  "attributes": {
-    "page": "64",
-    "verse parentheses": "non bold"
-  }
+  ]
 }

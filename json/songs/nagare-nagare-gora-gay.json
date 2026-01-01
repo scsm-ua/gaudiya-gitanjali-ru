@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 234,
+    "first_line": "нагаре нагаре гора̄ га̄й"
+  },
   "title": [
     "Шри Кршнера Вимсоттара-шата-нама"
   ],
@@ -272,8 +276,5 @@
       "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fgoswami-maharaj-jasomati",
       "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fgoswami-maharaj-jasomati\"></iframe>"
     }
-  ],
-  "attributes": {
-    "page": "234"
-  }
+  ]
 }

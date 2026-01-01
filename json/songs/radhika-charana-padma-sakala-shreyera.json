@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 196,
+    "first_line": "ра̄дхика̄-чаран̣а-падма, сакала ш́рейера садма"
+  },
   "title": [
     "Шри Радхаштака"
   ],
@@ -83,8 +87,5 @@
       "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fsridhar-maharaj-and-govinda-2",
       "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fsridhar-maharaj-and-govinda-2\"></iframe>"
     }
-  ],
-  "attributes": {
-    "page": "196"
-  }
+  ]
 }

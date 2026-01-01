@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 113,
+    "first_line": "нита̄и гун̣аман̣и а̄ма̄ра нита̄и гун̣аман̣и"
+  },
   "title": [
     "Нитаи гунамани амара"
   ],
@@ -70,8 +74,5 @@
       "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fsudarshan-prabhu-nitai",
       "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fsudarshan-prabhu-nitai\"></iframe>"
     }
-  ],
-  "attributes": {
-    "page": "113"
-  }
+  ]
 }

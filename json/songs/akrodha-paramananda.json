@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 114,
+    "first_line": "акродха парама̄нанда нитйа̄нанда ра̄й"
+  },
   "title": [
     "Акродха парамананда"
   ],
@@ -70,8 +74,5 @@
       "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fmadhusudan-maharaj-akrodha",
       "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fmadhusudan-maharaj-akrodha\"></iframe>"
     }
-  ],
-  "attributes": {
-    "page": "114"
-  }
+  ]
 }

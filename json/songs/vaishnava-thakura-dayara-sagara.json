@@ -1,4 +1,9 @@
 {
+  "meta": {
+    "page": 76,
+    "verse parentheses": "non bold",
+    "first_line": "(охе) ваиш̣н̣ава т̣ха̄кура, дойа̄ра са̄гара"
+  },
   "title": [
     "Шри Ваишнава-махима-гити"
   ],
@@ -90,9 +95,5 @@
       "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fsudarshan-prabhu-ohe-vaishnava",
       "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fsudarshan-prabhu-ohe-vaishnava\"></iframe>"
     }
-  ],
-  "attributes": {
-    "page": "76",
-    "verse parentheses": "non bold"
-  }
+  ]
 }

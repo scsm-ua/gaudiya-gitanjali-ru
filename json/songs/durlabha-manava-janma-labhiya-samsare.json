@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 175,
+    "first_line": "дурлабха ма̄нава-джанма лабхийа̄ сам̇са̄ре"
+  },
   "title": [
     "Дурлабха манава-джанма"
   ],
@@ -144,8 +148,5 @@
       "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fshchsm-karakas-durlava-manava",
       "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fshchsm-karakas-durlava-manava\"></iframe>"
     }
-  ],
-  "attributes": {
-    "page": "175"
-  }
+  ]
 }

@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 123,
+    "first_line": "кобе гаура-ване, сурадхуни-тат̣е"
+  },
   "title": [
     "Сиддхи-лаласа"
   ],
@@ -62,8 +66,5 @@
       "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fsudarshan-prabhu-siddhi-lalasa",
       "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fsudarshan-prabhu-siddhi-lalasa\"></iframe>"
     }
-  ],
-  "attributes": {
-    "page": "123"
-  }
+  ]
 }

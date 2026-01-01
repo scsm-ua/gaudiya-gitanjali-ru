@@ -1,6 +1,8 @@
 {
   "meta": {
-    "author": "Ш́рӣла Бхакти Сундар Говинда Дев-Госва̄мӣ Маха̄ра̄дж"
+    "page": 26,
+    "author": "Ш́рӣла Бхакти Сундар Говинда Дев-Госва̄мӣ Маха̄ра̄дж",
+    "first_line": "хари-на̄ма маха̄мантра сарва-мантра-са̄ра"
   },
   "title": [
     "Даша-видха Намапарадха"
@@ -148,8 +150,5 @@
       "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fmadhusudan-maharaj-dasa-vidha-namaparadha",
       "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fmadhusudan-maharaj-dasa-vidha-namaparadha\"></iframe>"
     }
-  ],
-  "attributes": {
-    "page": "26"
-  }
+  ]
 }

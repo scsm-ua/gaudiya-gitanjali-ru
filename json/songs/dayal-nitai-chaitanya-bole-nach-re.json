@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 116,
+    "first_line": "‘дайа̄л нита̄и чаитанйа’ бо’ле на̄ч ре а̄ма̄р ман"
+  },
   "title": [
     "Дайал Нитаи Чаитанйа"
   ],
@@ -49,8 +53,5 @@
       "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fshchsm-karakas-doi-al-nitai",
       "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fshchsm-karakas-doi-al-nitai\"></iframe>"
     }
-  ],
-  "attributes": {
-    "page": "116"
-  }
+  ]
 }

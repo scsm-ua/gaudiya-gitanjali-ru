@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 75,
+    "first_line": "ш́рӣ кр̣ш̣н̣а чаитанйа прабху дойа̄ коро море"
+  },
   "title": [
     "Саварана-Шри-Гаура-пада-падме Прартхана"
   ],
@@ -118,8 +122,5 @@
       "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fmadhusudan-maharaj-sri-krishna",
       "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fmadhusudan-maharaj-sri-krishna\"></iframe>"
     }
-  ],
-  "attributes": {
-    "page": "75"
-  }
+  ]
 }

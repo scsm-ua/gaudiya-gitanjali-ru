@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 125,
+    "first_line": "джади гаура на̄ хо’то, тобе ки хоито"
+  },
   "title": [
     "Джади Гаура на хо’то"
   ],
@@ -62,8 +66,5 @@
       "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fsudarshan-prabhu-jadi-gaura-na",
       "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fsudarshan-prabhu-jadi-gaura-na\"></iframe>"
     }
-  ],
-  "attributes": {
-    "page": "125"
-  }
+  ]
 }

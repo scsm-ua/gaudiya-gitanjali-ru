@@ -1,3 +1,8 @@
+---
+page: 123
+first_line: кобе гаура-ване, сурадхуни-тат̣е
+---
+
 # Сиддхи-лаласа
 
 ### Ш́рӣла Бхактивинод Т̣ха̄кур
@@ -41,5 +46,3 @@
 
 [Сударшан Прабху](https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-siddhi-lalasa)
 
-
-> page = 123

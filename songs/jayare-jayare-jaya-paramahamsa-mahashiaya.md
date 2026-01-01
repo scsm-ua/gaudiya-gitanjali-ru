@@ -1,3 +1,8 @@
+---
+page: 221
+first_line: джайаре джайаре джайа парамахам̇са маха̄ш́айа
+---
+
 # Ачарйа вандана
 
 ### Гопал Говинда Маханта
@@ -195,5 +200,3 @@
 
 [Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-acharya)
 
-
-> page = 221

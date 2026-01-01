@@ -1,3 +1,10 @@
+---
+page:
+  - 39
+  - 60
+first_line: джаш́оматӣ-нандана браджа-баро на̄гара
+---
+
 # Шри Нама-киртан
 
 ### Ш́рӣла Бхактивинод Т̣ха̄кур
@@ -58,5 +65,3 @@
 
 [Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-shri-nama)
 
-> page = 39
-> page = 60

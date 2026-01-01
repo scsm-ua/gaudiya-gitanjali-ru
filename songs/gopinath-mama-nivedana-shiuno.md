@@ -1,3 +1,8 @@
+---
+page: 169
+first_line: гопӣна̄тх, мама ниведана ш́уно
+---
+
 # Ниведана
 
 ## Часть 1
@@ -68,8 +73,8 @@
 
 Гопинатх, Бхактивинод настолько греховен, что все еще влачит материальное существование, хотя все демоны достигли Твоих лотосоподобных стоп.
 
+
 [Шрила Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-gopinath-1)
 
 [Шрила Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-gopinath)
 
-> page = 169

@@ -1,3 +1,8 @@
+---
+page: 154
+first_line: (прабху хе!) эмона дурмати, сам̇са̄ра бхиторе
+---
+
 # Даинйатмика
 
 ### Ш́рӣла Бхактивинод Т̣ха̄кур
@@ -57,6 +62,7 @@
 
 О Господь, услышав эти слова, Бхактивинод зарыдал, моля о живительной сени Твоих лотосоподобных стоп и рассказывая историю своей жизни.
 
+
 [Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-emona-durmati)
 
 [Шрила Шридхар Махарадж](https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-govinda-7)
@@ -75,5 +81,3 @@
 
 [Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-emona-1)
 
-
-> page = 154

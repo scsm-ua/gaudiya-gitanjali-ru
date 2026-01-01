@@ -1,3 +1,10 @@
+---
+page:
+  - 44
+  - 70
+first_line: джайа джайа гурудевер а̄рати уджвала
+---
+
 # Шри Гуру Арати
 
 ### Ш́рипа̄д Б. А. Парамахам̇са Маха̄ра̄дж
@@ -121,7 +128,3 @@
 
 [Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhaya-dzhaya)
 
-
-> page = 44
-
-> page = 70

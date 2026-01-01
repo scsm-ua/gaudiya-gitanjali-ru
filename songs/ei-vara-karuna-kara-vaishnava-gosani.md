@@ -1,3 +1,8 @@
+---
+page: 136
+first_line: эи-ба̄ро коруна̄ коро ваиш̣н̣ава-госа̄и
+---
+
 # Ваишнава Виджнапти
 
 ### Ш́рӣла Нароттам Да̄с Т̣ха̄кур
@@ -51,4 +56,3 @@
 
 [Шрила Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-vaishnava)
 
-> page = 136

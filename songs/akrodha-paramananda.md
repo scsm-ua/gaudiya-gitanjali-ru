@@ -1,3 +1,8 @@
+---
+page: 114
+first_line: акродха парама̄нанда нитйа̄нанда ра̄й
+---
+
 # Акродха парамананда
 
 ### Ш́рӣла Лочан Да̄с Т̣ха̄кур
@@ -42,5 +47,3 @@
 
 [Шрила Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-akrodha)
 
-
-> page = 114

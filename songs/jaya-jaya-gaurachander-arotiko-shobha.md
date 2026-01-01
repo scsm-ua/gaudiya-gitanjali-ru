@@ -1,3 +1,9 @@
+---
+page: 64
+verse parentheses: non bold
+first_line: (киба) джайа джайа гаура̄ча̄̐дер а̄ротико ш́обха̄
+---
+
 # Шри Гаура-арати
 
 ### Ш́рӣла Бхактивинод Т̣ха̄кур
@@ -87,7 +93,3 @@
 
 [Сударшан Прабху](https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-sri-gaura)
 
-
-> page = 64
-
-> verse parentheses = non bold

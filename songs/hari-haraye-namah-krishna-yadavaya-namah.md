@@ -1,3 +1,8 @@
+---
+page: 55
+first_line: хари харайе намах̣ кр̣ш̣н̣а джа̄дава̄йа намах̣
+---
+
 # Нама-санкиртан
 
 ### Ш́рӣла Нароттам Да̄с Т̣ха̄кур
@@ -79,4 +84,3 @@
 
 [Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-xari-xaraje)
 
-> page = 55

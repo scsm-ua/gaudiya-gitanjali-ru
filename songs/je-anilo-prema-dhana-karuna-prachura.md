@@ -1,3 +1,8 @@
+---
+page: 135
+first_line: дже а̄нило према-дхана корун̣а̄ прачура
+---
+
 # Вираха-гити
 
 ### Ш́рӣла Нароттам Да̄с Т̣ха̄кур
@@ -44,5 +49,3 @@
 
 [Шрила Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-viraha-giti)
 
-
-> page = 135

@@ -1,3 +1,8 @@
+---
+page: 119
+first_line: гаура̄н̇гера дут̣и пада, джа̄р дхана сампада
+---
+
 # Саварана-Шри-Гаура-махима
 
 ### Ш́рӣла Нароттам Да̄с Т̣ха̄кур
@@ -41,5 +46,3 @@
 
 [Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-gaurangera-duti)
 
-
-> page = 119

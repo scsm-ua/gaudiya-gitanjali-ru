@@ -1,3 +1,8 @@
+---
+page: 198
+first_line: ра̄дха-бхаджане джоди моти на̄хи бхела̄
+---
+
 # Шри Радхаштака
 
 ## Песня 8
@@ -63,5 +68,3 @@
 
 [Каракас Дхам](https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-573711371)
 
-
-> page = 198

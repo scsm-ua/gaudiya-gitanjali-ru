@@ -1,3 +1,8 @@
+---
+page: 52
+first_line: вибха̄варӣ ш́еш̣а, а̄лока-правеш́а
+---
+
 # Вибхавари Шеша
 
 ### Ш́рӣла Бхактивинод Т̣ха̄кур
@@ -81,4 +86,3 @@
 
 [Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-vibxavari)
 
-> page = 52

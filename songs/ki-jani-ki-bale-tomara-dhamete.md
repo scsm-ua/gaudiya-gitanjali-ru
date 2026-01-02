@@ -1,3 +1,8 @@
+---
+page: 155
+first_line: ки джа̄ни ки боле, тома̄ра дха̄мете
+---
+
 # Гоптритве Варана
 
 ## Принятие Господа своим Хозяином, песня 1
@@ -63,5 +68,3 @@
 
 [Сударшан Прабху](https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-goptrtve)
 
-
-> page = 155

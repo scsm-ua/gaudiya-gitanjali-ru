@@ -1,3 +1,8 @@
+---
+page: 48
+first_line: сам̇са̄ра-да̄ва̄нала-лӣд̣ха-лока-
+---
+
 # Шри Шри Гурваштака
 
 ### Ш́рӣла Виш́вана̄тх Чакравартӣ Т̣ха̄кур
@@ -86,5 +91,3 @@
 
 [Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-samsara-davanala)
 
-
-> page = 48

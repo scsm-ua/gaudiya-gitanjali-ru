@@ -1,3 +1,9 @@
+---
+page: 74
+verse parentheses: non bold
+first_line: ш́рӣ гуру чаран̣а-падма, кевала-бхакати-садма
+---
+
 # Шри Гуру-ваишнава Махатмйа-гити
 
 ### Ш́рӣла Нароттам Да̄с Т̣ха̄кур
@@ -54,5 +60,3 @@
 
 [Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-sri-guru-charana)
 
-> page = 74
-> verse parentheses = non bold

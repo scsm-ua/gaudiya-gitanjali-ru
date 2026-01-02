@@ -1,3 +1,8 @@
+---
+page: 116
+first_line: ‘дайа̄л нита̄и чаитанйа’ бо’ле на̄ч ре а̄ма̄р ман
+---
+
 # Дайал Нитаи Чаитанйа
 
 ### Ш́рӣла Бхактивинод Т̣ха̄кур
@@ -31,5 +36,3 @@
 
 [Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-doi-al-nitai)
 
-
-> page = 116

@@ -1,3 +1,8 @@
+---
+page: 58
+first_line: бхаджа бхаката-ватсала ш́рӣ гаурахари
+---
+
 # Шри Бхога-арати Гити
 
 ### Ш́рӣла Бхактивинод Т̣ха̄кур
@@ -135,5 +140,3 @@
 
 [Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-bxadzha-bxakata)
 
-
-> page = 58

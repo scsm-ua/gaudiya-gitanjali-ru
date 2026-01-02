@@ -1,3 +1,9 @@
+---
+page: 76
+verse parentheses: non bold
+first_line: (охе) ваиш̣н̣ава т̣ха̄кура, дойа̄ра са̄гара
+---
+
 # Шри Ваишнава-махима-гити
 
 ### Ш́рӣла Бхактивинод Т̣ха̄кур
@@ -61,6 +67,3 @@
 
 [Сударшан Прабху](https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-ohe-vaishnava)
 
-> page = 76
-
-> verse parentheses = non bold

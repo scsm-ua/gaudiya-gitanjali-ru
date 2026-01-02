@@ -1,3 +1,8 @@
+---
+page: 121
+first_line: авата̄ра са̄ра гора̄ авата̄ра
+---
+
 # Аватара Сара
 
 ### Ш́рӣла Лочан Да̄с Т̣ха̄кур
@@ -52,4 +57,3 @@
 
 [Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-avatara-sara)
 
-> page = 121

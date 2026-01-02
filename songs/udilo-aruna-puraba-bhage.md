@@ -1,3 +1,8 @@
+---
+page: 42
+first_line: удило арун̣а пӯраба-бха̄ге
+---
+
 # Арунодойа-киртан
 
 ##  Часть 1
@@ -76,9 +81,8 @@
 
 Чтобы рассеять тьму невежества и благословить все души Вселенной, прекрасное Имя Кришны взошло, словно сияющее солнце!
 
+
 [Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-udilo-aruna-jiv)
 
 [Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-utrennee-1)
 
-
-> page = 42

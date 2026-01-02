@@ -1,5 +1,7 @@
 ---
+page: 227
 author: Ш́рӣла Джайадев Госва̄мӣ
+first_line: намас те нарасим̇ха̄йа
 ---
 
 # Шри Нрсимха-пранам
@@ -31,4 +33,3 @@ author: Ш́рӣла Джайадев Госва̄мӣ
 
 [Шрила Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-s-ri-nr-sim-ha)
 
-> page = 227

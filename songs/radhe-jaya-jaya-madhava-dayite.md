@@ -1,3 +1,8 @@
+---
+page: 200
+first_line: ра̄дхе джайа джайа ма̄дхава-дайите
+---
+
 # Шри Радхика-става
 
 ### Ш́рӣла Рӯпа Госва̄мӣ
@@ -30,11 +35,10 @@
 
 О Ты, исполненная сострадания! Ты, чьи божественные качества воспеты великими мудрецами Санакой и Санатаной! О Радха, молю, будь милостива ко мне!
 
+
 [Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-radhe-jaya)
 
 [Шрила Шридхар Махарадж](https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-govinda)
 
 [Шрила Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-radhe-jaya)
 
-
-> page = 200

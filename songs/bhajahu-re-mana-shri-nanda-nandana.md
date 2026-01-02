@@ -1,3 +1,8 @@
+---
+page: 146
+first_line: бхаджаху̐ ре мана ш́рӣ-нанда-нандана
+---
+
 # Бхаджаху Ре Мана
 
 ### Ш́рӣла Говинда Да̄с Кавира̄дж
@@ -45,5 +50,3 @@
 
 [Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-bxadzhaxu-re)
 
-
-> page = 146

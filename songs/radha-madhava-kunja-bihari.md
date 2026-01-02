@@ -1,3 +1,8 @@
+---
+page: 203
+first_line: (джайа) ра̄дха̄-ма̄дхава (джайа) кун̃джа-биха̄рӣ
+---
+
 # Джайа Радха-Мадхава
 
 ### Ш́рӣла Бхактивинод Т̣ха̄кур
@@ -26,4 +31,3 @@
 
 [Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-dzhaya-radxa)
 
-> page = 203

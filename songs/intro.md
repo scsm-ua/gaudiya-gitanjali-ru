@@ -1,6 +1,7 @@
 ---
 page: 8
 first_line: Введение
+no-author: 1
 ---
 
 # Введение

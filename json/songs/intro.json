@@ -1,7 +1,8 @@
 {
   "meta": {
     "page": 8,
-    "first_line": "Введение"
+    "first_line": "Введение",
+    "no-author": 1
   },
   "title": [
     "Введение"

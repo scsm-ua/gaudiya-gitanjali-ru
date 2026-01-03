@@ -5,7 +5,6 @@
     "sort_order": 20,
     "render": {
         "tg.contents.first_line": false,
-        "tg.a-z.embeds": false,
-        "tg.a-z.pages.short": true
+        "tg.a-z.title.words": 3
     }
 }

@@ -65,6 +65,7 @@
 - [дурлабха ма̄нава-джанма лабхийа̄ сам̇са̄ре](songs/durlabha-manava-janma-labhiya-samsare.md)
 - [душ̣т̣а мана! туми кисера ваиш̣н̣ава?](songs/dushta-mana-tumi-kisera-vaishnava.md)
 - [дхана мора нитйа̄нанда пати мора гаурачандра](songs/dhana-mora-nityananda-pati-mora.md)
+- [йади тэ хари-па̄да-сароджа](songs/yadi-te-hari-pada-saroja-sudha.md)
 - [йе-дина удиле туми (Патрика)](songs/ye-dina-udile-tumi-patrika.md)
 - [йе-дина удиле туми](songs/ye-dina-udile-tumi-darshan.md)
 - [йо ’нанто ’нанта-вактраир ниравадхи хари-сам̇кӣртанам̇ сам̇видхате](songs/yo-nanto-nanta-vaktrair-niravadhi.md)

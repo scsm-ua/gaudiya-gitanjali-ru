@@ -197,6 +197,7 @@
 - [После парикрамы](songs/nagara-bhramiya-amara-gaura-elo-ghore.md)
 - [Шри Нагара-киртана (песнь 4)](songs/radha-krishna-bol-bol-bolo-re-sobai.md)
 - [Шри Нагара-киртана (песнь 8)](songs/hari-bole-modera-gaura-elo.md)
+- [Шри Годрума-Чандра-Бхаджана-Упадеша](songs/yadi-te-hari-pada-saroja-sudha.md)
 
 ### Произведения Шрилы Шридхара Махараджа
 
@@ -206,8 +207,6 @@
 - [Шримад Рупа-пада-раджах Прартхана Дашакам](songs/shrimach-chaitanyapadau-chara.md)
 - [Шриман Нитйананда Двадашакам](songs/yo-nanto-nanta-vaktrair-niravadhi.md)
 - [Саннйаса Шри Нимайа](songs/mishra-suta-vishvambhara-navadvipa-vasa.md)
-
-
 
 ### Произведения Шрилы Говинды Махараджа
 

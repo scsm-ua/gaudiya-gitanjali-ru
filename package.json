@@ -13,7 +13,7 @@
   "homepage": "https://github.com/scsm-ua/gaudiya-gitanjali-ru#readme",
   "scripts": {
     "build": "songbook-build",
-    "test": "`songbook-validate`",
+    "test": "songbook-validate",
     "update-authors": "npm run build && songbook-list-authors > authors.log",
     "test:authors": "songbook-test-authors"
   },

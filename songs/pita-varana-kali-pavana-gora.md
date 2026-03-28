@@ -24,7 +24,7 @@ first_line: пита-баран̣а кали-па̄вана гора̄
 
 Каждое чаяние сердца, какое только можно вообразить, находит отклик и очищается. И душа сдается на милость всепобеждающим благодатным волнам Святого Имени Кришны!
 
-*Комментарий к стиху можно найти в книге [Золотой вулкан божественной любви > Часть II. Шикшаштака > Святое Имя Кришны](https://saraswati.pro/books/zolotoy_vulkan_bozhestvennoy_lyubvi/chast_ii_shikshashtaka_nastavleniya_shri_chaytani_makhaprabkhu/svyatoe-imya-krishny/).*
+*Комментарий к стиху в книге: [Золотой вулкан божественной любви > Часть II. Шикшаштака > Святое Имя Кришны](https://saraswati.pro/books/zolotoy_vulkan_bozhestvennoy_lyubvi/chast_ii_shikshashtaka_nastavleniya_shri_chaytani_makhaprabkhu/svyatoe-imya-krishny/).*
 
 #### 1
 
@@ -81,4 +81,5 @@ first_line: пита-баран̣а кали-па̄вана гора̄
     кр̣ш̣н̣а-кӣртана джайа према-нида̄н
 
 Слава воспеванию Святого Имени Кришны! Оно оживляет душу Бхактивинода. Воспевание Святого Имени — сокровищница любви к Богу!
+
 

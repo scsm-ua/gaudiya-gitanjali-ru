@@ -16,6 +16,8 @@ first_line: сакхи го кемоте дхорибо пара̄н̣
 
 Говинда, без Тебя мир пуст. Слезы нескончаемыми потоками текут из моих глаз, а мгновение кажется вечностью.
 
+*Разъяснение стиха в книге: [Золотой вулкан божественной любви > Часть II. Шикшаштака > Навеки без Тебя](https://saraswati.pro/books/zolotoy_vulkan_bozhestvennoy_lyubvi/chast_ii_shikshashtaka_nastavleniya_shri_chaytani_makhaprabkhu/naveki-bez-tebya/).*
+
 #### 1
 
     сакхи го кемоте дхорибо пара̄н̣

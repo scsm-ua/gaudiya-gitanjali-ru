@@ -16,6 +16,8 @@ first_line: га̄ите га̄ите на̄ма ки дош́а̄ хоило
 
 Говинда, без Тебя мир пуст. Слезы нескончаемыми потоками текут из моих глаз, а мгновение кажется вечностью.
 
+*Разъяснение стиха в книге: [Золотой вулкан божественной любви > Часть II. Шикшаштака > Навеки без Тебя](https://saraswati.pro/books/zolotoy_vulkan_bozhestvennoy_lyubvi/chast_ii_shikshashtaka_nastavleniya_shri_chaytani_makhaprabkhu/naveki-bez-tebya/).*
+
 #### 1
 
     га̄ите га̄ите на̄ма ки дош́а̄ хоило

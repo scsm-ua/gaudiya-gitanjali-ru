@@ -17,7 +17,7 @@ first_line: ванде ваикун̣т̣ха-вр̣тти-стхам̇
 
     vande bhakti-ādir-gatim
     govinda-prabhava-ratim
-    vimalānanya-dayām-ava-
-    dhūta-ācārya-hṛd-dhānam
+    vimalānanya-dayām
+    avadhūta-āchārya-hṛd-dhāmam
 
 Я склоняюсь перед святой обителью сердца Ачарьи Авадхуты: (моим) прибежищем, естество которого — бхакти; источником, питаемым любовью Говинды, и являющим (миру) безраздельную, исключительной чистоты милость.

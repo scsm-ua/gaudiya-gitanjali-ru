@@ -15,6 +15,8 @@ first_line: ванде ваикун̣т̣ха-вр̣тти-стхам̇
 
 *(Ш́рӣла Бхакти Судхир Госва̄мӣ Маха̄ра̄дж)*
 
+#### 2
+
     vande bhakti-ādir-gatim
     govinda-prabhava-ratim
     vimalānanya-dayām

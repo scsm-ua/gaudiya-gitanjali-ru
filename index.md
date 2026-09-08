@@ -11,7 +11,7 @@
 - [апара̄дха-пхоле мама читта бхела ваджра-сама](songs/aparadha-phole-mama.md)
 - [арун̣а басане сонара сӯраджа](songs/aruna-basane-sonara-suraja.md)
 - [а̄ча̄рйа-варйам̣ гаура-дха̄ма-ниш̣т̣хам̣](songs/acharya-varyam-gaura-dhama-nishtham.md)
-- [бимала хемаджини тану анупама ре!](songs/bimala-hemajini-tanu-anupama-re.md)
+- [бимала хемаджини тану анупама ре!](songs/vimala-hemajin-tanu-anupama-re.md)
 - [бондху-гон̣! ш́уноха вачана мора](songs/bondhu-gon-shiunoho-vachana-mora.md)
 - [бха̄гйа̄дхӣш́а! твадӣйо бимала-сукхамайах̣](songs/bhagyadhishia-tvadiyo-vimala-sukhamayah.md)
 - [бха̄и-ре! ш́орӣра авидйа̄-джа̄л, джод̣ендрийа та̄хе ка̄л](songs/bhai-re-shorira-avidya-jal-jodendriya-tahe-kal.md)

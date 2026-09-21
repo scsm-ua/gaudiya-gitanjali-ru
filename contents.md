@@ -101,7 +101,7 @@
 - [Джади Гаура на хо’то](songs/jadi-gaura-na-hoto-tobe-ki-hoito.md)
 - [Эмона Гауранга бине нахи ара](songs/emona-gauranga-bine-nahi-ara.md)
 - [Ке джаби ке джаби](songs/ke-jabi-ke-jabi-bhai-bhava-sindhu-para.md)
-- [Бимала хемаджини](songs/bimala-hemajini-tanu-anupama-re.md)
+- [Бимала хемаджини](songs/vimala-hemajin-tanu-anupama-re.md)
 - [Гауранга болите хабе](songs/gauranga-bolite-hobe-pulaka-shorira.md)
 - [Шри Шри Гаурасундарер Авирбхава Васаре](songs/aruna-basane-sonara-suraja.md)
 

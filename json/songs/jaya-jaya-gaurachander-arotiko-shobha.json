@@ -1,7 +1,6 @@
 {
   "meta": {
     "page": 64,
-    "verse parentheses": "non bold",
     "first_line": "(киба) джайа джайа гаура̄ча̄̐дер а̄ротико ш́обха̄"
   },
   "title": [
@@ -79,7 +78,7 @@
       "number": "6",
       "text": [
         "(киба) баху-кот̣и чандра джини вадана уджвала",
-        "        (кот̣и гаганер ча̄̐д кот̣а лāге ре",
+        "        (кот̣и гаганер ча̄̐д кот̣а ла̄ге ре",
         "        баху-кот̣и чандра джини кот̣и гаганер)",
         "        гала-деш́е бана-ма̄ла̄ коре джхаламала",
         "        (джхалмол джхалмол джхалмол коре)",
@@ -113,26 +112,6 @@
       "translation": [
         "Одарите меня своей милостью! Шри Бхактивинод, Шри Сарасвати Тхакур, Гурудев, спаситель падших! Господь Гаурахари со Своими спутниками, пожалуйста, даруйте мне Свою милость."
       ]
-    }
-  ],
-  "embeds": [
-    {
-      "title": "Шрила Говинда Махарадж",
-      "embed_url": "https://soundcloud.com/bharatimaharaj/govinda-maharaj-kiba-jaya-jaya",
-      "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fgovinda-maharaj-kiba-jaya-jaya",
-      "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fgovinda-maharaj-kiba-jaya-jaya\"></iframe>"
-    },
-    {
-      "title": "Навадвип Дхам",
-      "embed_url": "https://soundcloud.com/bharatimaharaj/navadwip-scsm-kiba-jaya-jaya",
-      "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fnavadwip-scsm-kiba-jaya-jaya",
-      "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fnavadwip-scsm-kiba-jaya-jaya\"></iframe>"
-    },
-    {
-      "title": "Сударшан Прабху",
-      "embed_url": "https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-sri-gaura",
-      "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fsudarshan-prabhu-sri-gaura",
-      "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fsudarshan-prabhu-sri-gaura\"></iframe>"
     }
   ]
 }

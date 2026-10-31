@@ -139,20 +139,15 @@
       "translation": [
         "Слава Шри Гуру, Господу Гауранге, Шри Радхе и прекрасному Господу Говинде! Преданные, воспевайте Их славу всегда и везде!"
       ]
-    }
-  ],
-  "embeds": [
-    {
-      "title": "Навадвип Дхам",
-      "embed_url": "https://soundcloud.com/bharatimaharaj/navadwip-scsm-kiba-jaya-jaya",
-      "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fnavadwip-scsm-kiba-jaya-jaya",
-      "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fnavadwip-scsm-kiba-jaya-jaya\"></iframe>"
     },
     {
-      "title": "Каракас Дхам",
-      "embed_url": "https://soundcloud.com/bharatimaharaj/shchsm-karakas-gaura-arati-i",
-      "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fshchsm-karakas-gaura-arati-i",
-      "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fshchsm-karakas-gaura-arati-i\"></iframe>"
+      "text": [
+        "(ш́рӣ-кр̣ш̣н̣а-чаитанйа прабху нитйа̄нанда)",
+        "(ш́рӣ-адваита гада̄дхара ш́рӣва̄са̄ди-гаура-бхакта-вр̣нда)",
+        "(харе кр̣ш̣на харе кр̣ш̣н̣а кр̣ш̣н̣а кр̣ш̣н̣а харе харе)",
+        "(харе ра̄ма харе ра̄ма ра̄ма ра̄ма харе харе)",
+        "(нита̄и гаура харибол)"
+      ]
     }
   ]
 }

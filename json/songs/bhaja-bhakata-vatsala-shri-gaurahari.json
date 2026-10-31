@@ -190,25 +190,5 @@
         "ш́ачи дулала джайа джайа гаура гопа̄ла"
       ]
     }
-  ],
-  "embeds": [
-    {
-      "title": "Шрила Говинда Махарадж",
-      "embed_url": "https://soundcloud.com/bharatimaharaj/govinda-maharaj-sri-bhoga",
-      "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fgovinda-maharaj-sri-bhoga",
-      "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fgovinda-maharaj-sri-bhoga\"></iframe>"
-    },
-    {
-      "title": "Навадвип Дхам",
-      "embed_url": "https://soundcloud.com/bharatimaharaj/navadwip-scsm-bhaja-bhakata",
-      "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fnavadwip-scsm-bhaja-bhakata",
-      "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fnavadwip-scsm-bhaja-bhakata\"></iframe>"
-    },
-    {
-      "title": "Каракас Дхам",
-      "embed_url": "https://soundcloud.com/bharatimaharaj/shchsm-karakas-bxadzha-bxakata",
-      "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fshchsm-karakas-bxadzha-bxakata",
-      "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fshchsm-karakas-bxadzha-bxakata\"></iframe>"
-    }
   ]
 }

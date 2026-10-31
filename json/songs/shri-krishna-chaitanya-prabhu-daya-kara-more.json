@@ -1,13 +1,14 @@
 {
   "meta": {
     "page": 75,
-    "first_line": "ш́рӣ кр̣ш̣н̣а чаитанйа прабху дойа̄ коро море"
+    "first_line": "ш́рӣ кр̣ш̣н̣а чаитанйа прабху дойа̄ коро море",
+    "author": "Ш́рӣла Нароттам Да̄с Т̣ха̄кур"
   },
   "title": [
     "Саварана-Шри-Гаура-пада-падме Прартхана"
   ],
   "author": [
-    "Ш́рӣла Нароттам Да̄с Т̣ха̄кур"
+    "Стихи с 1 по 7 составлены Ш́рӣлой Нароттамом Да̄сом Т̣ха̄куром"
   ],
   "verses": [
     {
@@ -83,44 +84,18 @@
     {
       "number": "8",
       "text": [
-        "(дойа̄ коро прабхупа̄да ш́ри гаура прака̄ш́а)",
-        "(тава джана кр̣па̄ ма̄ге эи адхама да̄са)"
+        "дойа̄ коро прабхупа̄да ш́ри гаура прака̄ш́а",
+        "тава джана кр̣па̄ ма̄ге эи адхама да̄са"
       ],
       "translation": [
-        "Молю, даруй свои благословения, Шрила Прабхупада Сарасвати Тхакур, проявление Шри Гауры! Я падший слуга и прошу о милости твоих спутников!"
+        "Молю, даруй свои благословения, Шрила Прабхупада Сарасвати Тхакур, проявление Шри Гауры! Я падший слуга и прошу о милости твоих спутников! *(Этот стих составлен Ш́рӣлой Бхакти Ракш̣аком Ш́рӣдхаром Дев-Госва̄мӣ Маха̄ра̄джем)*"
       ]
-    }
-  ],
-  "embeds": [
-    {
-      "title": "Шрила Говинда Махарадж",
-      "embed_url": "https://soundcloud.com/bharatimaharaj/govinda-maharaj-savarana-sri",
-      "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fgovinda-maharaj-savarana-sri",
-      "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fgovinda-maharaj-savarana-sri\"></iframe>"
     },
     {
-      "title": "Шрила Госвами Махарадж",
-      "embed_url": "https://soundcloud.com/bharatimaharaj/goswami-maharaj-sri-krsna",
-      "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fgoswami-maharaj-sri-krsna",
-      "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fgoswami-maharaj-sri-krsna\"></iframe>"
-    },
-    {
-      "title": "Навадвип Дхам",
-      "embed_url": "https://soundcloud.com/bharatimaharaj/navadwip-scsm-sri-krishna-1",
-      "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fnavadwip-scsm-sri-krishna-1",
-      "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fnavadwip-scsm-sri-krishna-1\"></iframe>"
-    },
-    {
-      "title": "Навадвип Дхам",
-      "embed_url": "https://soundcloud.com/bharatimaharaj/navadwip-scsm-sri-krishna",
-      "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fnavadwip-scsm-sri-krishna",
-      "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fnavadwip-scsm-sri-krishna\"></iframe>"
-    },
-    {
-      "title": "Шрила Мадхусудан Махарадж",
-      "embed_url": "https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-sri-krishna",
-      "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fmadhusudan-maharaj-sri-krishna",
-      "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fmadhusudan-maharaj-sri-krishna\"></iframe>"
+      "text": [
+        "(джайа гаурахари)",
+        "(нита̄и гаура харибол)"
+      ]
     }
   ]
 }

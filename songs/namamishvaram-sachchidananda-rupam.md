@@ -81,10 +81,3 @@ first_line: нама̄мӣш́варам̇ саччида̄нанда рӯпам
 
     (джайа да̄модара)
 
-
-[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-damodarastakam)
-
-[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-sri-sri-1)
-
-[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh)
-

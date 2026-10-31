@@ -95,8 +95,3 @@ author: Ш́рӣла Бхакти Сундар Говинда Дев-Госв�
 
     (нита̄и гаура̄н̇га)
 
-
-[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhaya-guru)
-
-[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-gaura-arati-i)
-

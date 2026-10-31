@@ -63,8 +63,3 @@ first_line: ра̄дха̄-кун̣д̣атат̣а-кун̃джа-кут̣ӣ�
 
 «Кана, — говорит Бхактивинод, — Ты единственный свет моей жизни!»
 
-
-[Шрила Шридхар Махарадж](https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-govinda-5)
-
-[Шрила Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-day-programm-kisel)
-

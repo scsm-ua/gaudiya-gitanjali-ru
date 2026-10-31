@@ -48,16 +48,3 @@ first_line: гурудев! кр̣па̄-бинду дийа̄ коро’ эи 
 
     (гурудев гурудев джайа джайа гурудев)
 
-
-[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-gurudev-kripa)
-
-[Шрила Шридхар Махарадж](https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-govinda-6)
-
-[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-gurudev-morning)
-
-[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-gurudev)
-
-[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-gurudev)
-
-[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-utrennee-2)
-

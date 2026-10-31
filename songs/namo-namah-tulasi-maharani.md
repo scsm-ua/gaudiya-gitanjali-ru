@@ -55,6 +55,3 @@ first_line: намо намах̣ туласӣ маха̄ра̄н̣и
     (джайа туласӣдеви, маха̄ра̄н̣и)
     (джайа вриндадеви, маха̄ра̄н̣и)
 
-
-[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-shri-tulasi)
-

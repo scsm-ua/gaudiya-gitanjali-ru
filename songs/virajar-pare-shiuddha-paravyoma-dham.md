@@ -64,6 +64,3 @@ first_line: вираджа̄р па̄ре ш́уддха-паравйома-дх
 
 Никакого иного желания, кроме встречи этих Двоих, у Бхактивинода нет.
 
-
-[Шрила Шридхар Махарадж](https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-govinda-1)
-

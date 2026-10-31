@@ -65,6 +65,3 @@ first_line: бхайабхан̃джана джайаш́ам̇сана-кару
 
     (джайа прабхупа̄да)
 
-
-[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-sri-dayita)
-

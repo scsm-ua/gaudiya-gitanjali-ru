@@ -133,10 +133,3 @@ first_line: бхаджа бхаката-ватсала ш́рӣ гаурахар
     нанда дулала джайа джайа ш́ачи дулала
     ш́ачи дулала джайа джайа гаура гопа̄ла
 
-
-[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-sri-bhoga)
-
-[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-bhaja-bhakata)
-
-[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-bxadzha-bxakata)
-

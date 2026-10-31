@@ -54,8 +54,3 @@ first_line: авата̄ра са̄ра гора̄ авата̄ра
 
     (джайа гаурахари)
 
-
-[Шрила Ачарья Махарадж](https://soundcloud.com/bharatimaharaj/acharya-maharaj-avatara-sara)
-
-[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-avatara-sara)
-

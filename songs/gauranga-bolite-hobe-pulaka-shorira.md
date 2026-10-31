@@ -45,6 +45,3 @@ first_line: ‘гаура̄н̇га’ болите хабе пулака-ш́а
     (джайа гаурахари)
     (нита̄и гаура харибол)
 
-
-[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-gauranga-bolite)
-

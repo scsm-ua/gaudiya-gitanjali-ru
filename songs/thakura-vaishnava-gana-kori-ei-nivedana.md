@@ -46,5 +46,3 @@ first_line: т̣ха̄кура ваиш̣н̣ава ган̣а кори эи н�
     (охе ваиш̣н̣ава т̣ха̄кур)
     (дайа̄л ваиш̣н̣ава т̣ха̄кур)
 
-
-[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-thakura-vaisnava)

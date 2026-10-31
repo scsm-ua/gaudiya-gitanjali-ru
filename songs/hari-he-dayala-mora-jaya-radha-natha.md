@@ -41,6 +41,3 @@ first_line: хари хе дайа̄ла мора джайа ра̄дха̄-на
 
 В этом мире нет никого, кроме Тебя, кто бы мог освободить этого падшего слугу!
 
-
-[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-hari-he-doyala)
-

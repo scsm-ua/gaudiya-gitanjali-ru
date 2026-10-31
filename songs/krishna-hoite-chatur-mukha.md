@@ -123,8 +123,3 @@ first_line: кр̣ш̣н̣а хоите чатур-мукха, хон кр̣ш̣
 
     (джайа гуру парампара̄)
 
-
-[Шрила Ачарья Махарадж](https://soundcloud.com/bharatimaharaj/acharya-maharaj-guru-parampara)
-
-[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-shri-guru)
-

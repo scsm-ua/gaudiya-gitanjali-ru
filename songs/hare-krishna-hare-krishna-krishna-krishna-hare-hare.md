@@ -17,34 +17,3 @@ first_line: харе кр̣ш̣н̣а харе кр̣ш̣н̣а кр̣ш̣н̣а
 
 С такой точки зрения в Харе Кришна *мантре* вовсе не упоминается Рама-*лила* Айодхьи. Высочайший смысл Харе Кришна *мантры* не связан с этим… От постижения внутренней сути *мантры* зависят наши духовные достижения… Внутреннее постижение будет направлять преданных к их предназначению.
 
-
-[Шрила Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-mahamantra)
-
-[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-kirtan)
-
-[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-utrennee-3)
-
-[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-8)
-
-[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-7)
-
-[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-2016)
-
-[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-shri)
-
-[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-6)
-
-[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-5)
-
-[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-4)
-
-[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-3)
-
-[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-v)
-
-[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-2)
-
-[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-1)
-
-[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan)
-

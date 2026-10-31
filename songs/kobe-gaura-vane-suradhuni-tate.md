@@ -46,6 +46,3 @@ first_line: кобе гаура-ване, сурадхуни-тат̣е
     (джайа гаурахари)
     (нита̄и гаура харибол)
 
-
-[Сударшан Прабху](https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-siddhi-lalasa)
-

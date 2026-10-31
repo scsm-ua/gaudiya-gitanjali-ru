@@ -110,8 +110,3 @@ first_line: суджана̄рвуда-ра̄дхита-па̄да-йугам̇
 
     (джайа прабхупа̄да)
 
-
-[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-sri-sri)
-
-[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-prabxupada)
-

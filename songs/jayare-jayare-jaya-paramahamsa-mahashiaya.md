@@ -197,8 +197,3 @@ first_line: джайаре джайаре джайа парамахам̇са м
 
     (джайа прабхупа̄да)
 
-
-[Шрила Шридхар Махарадж](https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-govinda-8)
-
-[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-acharya)
-

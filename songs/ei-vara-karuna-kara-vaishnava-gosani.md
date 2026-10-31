@@ -54,8 +54,3 @@ first_line: эи-ба̄ро коруна̄ коро ваиш̣н̣ава-гос�
     (охе ваиш̣н̣ава т̣ха̄кур)
     (дайа̄л ваиш̣н̣ава т̣ха̄кур)
 
-
-[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-ei-baro-koruna)
-
-[Шрила Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-vaishnava)
-

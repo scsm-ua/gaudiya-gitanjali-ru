@@ -44,8 +44,3 @@ first_line: акродха парама̄нанда нитйа̄нанда ра�
 
     (дайа̄л нита̄и)
 
-
-[Шрила Ачарья Махарадж](https://soundcloud.com/bharatimaharaj/acharya-maharaj-akrodha)
-
-[Шрила Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-akrodha)
-

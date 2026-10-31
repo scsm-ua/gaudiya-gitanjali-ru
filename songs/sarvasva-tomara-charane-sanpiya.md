@@ -54,8 +54,3 @@ first_line: сарвасва тома̄ра, чаран̣е са̐пийа̄
 
 Поглощенный любовной заботой о хозяине, я не стану заботиться о своем теле. Бхактивинод принимает Тебя своим единственным покровителем.
 
-
-[Шрила Шридхар Махарадж](https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-govinda-4)
-
-[Сударшан Прабху](https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-sarvasva)
-

@@ -45,10 +45,3 @@ first_line: нита̄и-пада-камала, кот̣ӣ-чандра-суш́
 
     (дайа̄л нита̄и)
 
-
-[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-nitai-pada-1)
-
-[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-nitai-pada)
-
-[Шрила Ачарья Махарадж](https://soundcloud.com/bharatimaharaj/acharya-maharaj-nitay-pada)
-

@@ -1,6 +1,5 @@
 ---
 page: 64
-verse parentheses: non bold
 first_line: (киба) джайа джайа гаура̄ча̄̐дер а̄ротико ш́обха̄
 ---
 
@@ -85,11 +84,4 @@ first_line: (киба) джайа джайа гаура̄ча̄̐дер а̄ро
     (нита̄и гаура харибол)
 
 Одарите меня своей милостью! Шри Бхактивинод, Шри Сарасвати Тхакур, Гурудев, спаситель падших! Господь Гаурахари со Своими спутниками, пожалуйста, даруйте мне Свою милость.
-
-
-[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-kiba-jaya-jaya)
-
-[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-kiba-jaya-jaya)
-
-[Сударшан Прабху](https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-sri-gaura)
 

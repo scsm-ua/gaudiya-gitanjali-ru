@@ -104,8 +104,3 @@ first_line: джайаре джайаре джайа гаура-сарасват
     (харе ра̄ма харе ра̄ма ра̄ма ра̄ма харе харе)
     (нита̄и гаура харибол)
 
-
-[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-kiba-jaya-jaya)
-
-[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-gaura-arati-i)
-

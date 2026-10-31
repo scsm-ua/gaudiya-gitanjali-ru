@@ -44,24 +44,3 @@ first_line: джаш́оматӣ-нандана браджа-баро на̄га
 
 Гуляя по берегам реки Ямуны, Кришна похищает одежды купающихся юных *гопи*. Он наслаждается сладостью танца *расы*. Он очень милостив! Кришна — единственный возлюбленный Шримати Радхарани! Он самый лучший танцор Вриндавана и высочайшее прибежище Шрилы Бхактивинода Тхакура!
 
-
-[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-jasomati)
-
-[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-yasomati-2)
-
-[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-yasomati-1)
-
-[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-yasomati)
-
-[Шрила Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-yasomati)
-
-[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-jasomati-nandana)
-
-[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhashomati)
-
-[Шрила Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-day-programm-kisel)
-
-[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-utrennee-5)
-
-[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-shri-nama)
-

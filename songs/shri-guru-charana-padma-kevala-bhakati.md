@@ -1,6 +1,5 @@
 ---
 page: 74
-verse parentheses: non bold
 first_line: ш́рӣ гуру чаран̣а-падма, кевала-бхакати-садма
 ---
 
@@ -54,9 +53,4 @@ first_line: ш́рӣ гуру чаран̣а-падма, кевала-бхака
     (джай гурудев)
 
 Я предался, предался твоим лотосоподобным стопам! Пожалуйста, будь милостив. Шри Гурудев, спаситель падших, пожалуйста, даруй мне свою милость. Ты — спаситель падших душ! Слава тебе, Шри Гурудев!
-
-
-[Шрила Ачарья Махарадж](https://soundcloud.com/bharatimaharaj/acharya-maharaj-sri-guru)
-
-[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-sri-guru-charana)
 

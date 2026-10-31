@@ -63,8 +63,3 @@ first_line: ки джа̄ни ки боле, тома̄ра дха̄мете
 
 Рыдая, Бхактивинод находит приют у Твоих лотосоподобных стоп. Прости ему оскорбления, позволь вкусить Твое Святое Имя и поддержи его!
 
-
-[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-goptritve)
-
-[Сударшан Прабху](https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-goptrtve)
-

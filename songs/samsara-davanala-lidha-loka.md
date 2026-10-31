@@ -90,6 +90,3 @@ first_line: сам̇са̄ра-да̄ва̄нала-лӣд̣ха-лока-
 
     (джайа гурудев)
 
-
-[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-samsara-davanala)
-

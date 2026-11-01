@@ -57,14 +57,11 @@
       "translation": [
         "Хоть я и воспеваю «Гауранга!», мое сердце не плавится от упоительной любви! Как же до сих пор я нес бремя этого тела? Как получилось, что творец дал этому Васу камень вместо сердца?"
       ]
-    }
-  ],
-  "embeds": [
+    },
     {
-      "title": "Сударшан Прабху",
-      "embed_url": "https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-jadi-gaura-na",
-      "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fsudarshan-prabhu-jadi-gaura-na",
-      "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fsudarshan-prabhu-jadi-gaura-na\"></iframe>"
+      "text": [
+        "(джайа гаурахари)"
+      ]
     }
   ]
 }

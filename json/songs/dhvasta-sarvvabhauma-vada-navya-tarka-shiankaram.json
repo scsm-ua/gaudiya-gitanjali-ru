@@ -1,7 +1,14 @@
 {
   "meta": {
     "page": 88,
-    "first_line": "према-дха̄ма-дивйа-дӣргха-деха-дева-нандитам̇"
+    "first_line": "према-дха̄ма-дивйа-дӣргха-деха-дева-нандитам̇",
+    "styles": {
+      "verses": {
+        "inline": {
+          "bold": false
+        }
+      }
+    }
   },
   "title": [
     "Шри Шри Према-дхама-дева-стотрам"
@@ -157,14 +164,6 @@
         "«Моя дорогая подруга, здесь, на Курукшетре, Я наконец снова встретилась с Моим любимым Кришной! Я все Та же Радхарани, и Он все Тот же Кришна! Наша встреча радостна, но все же Я хочу вернуться на берега Калинди, где Я могла бы слышать сладостную мелодию Его флейты, играющей пятую ноту, под деревьями в лесу Вриндавана!»",
         "Я склоняюсь в почтении перед прекрасным Золотым Господом, Гауранга Сундаром, божественным воплощением Кришна-*премы*!"
       ]
-    }
-  ],
-  "embeds": [
-    {
-      "title": "Шрила Мадхусудан Махарадж",
-      "embed_url": "https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-prema-dhama",
-      "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fmadhusudan-maharaj-prema-dhama",
-      "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fmadhusudan-maharaj-prema-dhama\"></iframe>"
     }
   ]
 }

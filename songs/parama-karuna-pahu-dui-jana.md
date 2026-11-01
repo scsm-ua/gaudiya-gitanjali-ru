@@ -45,10 +45,3 @@ first_line: парама корун̣а, паху̐ дӯи джана
 
     (дайа̄л нита̄и дайа̄л гоур)
 
-
-[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-parama-koruna)
-
-[Шрила Ачарья Махарадж](https://soundcloud.com/bharatimaharaj/acharya-maharaj-paramakaruna)
-
-[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-parama-koruna)
-

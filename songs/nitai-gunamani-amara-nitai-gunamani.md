@@ -44,8 +44,3 @@ first_line: нита̄и гун̣аман̣и а̄ма̄ра нита̄и гун
 
     (дайа̄л нита̄и)
 
-
-[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-nitai-guna-mani)
-
-[Сударшан Прабху](https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-nitai)
-

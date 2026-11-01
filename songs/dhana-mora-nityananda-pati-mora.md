@@ -36,6 +36,3 @@ first_line: дхана мора нитйа̄нанда пати мора гау�
 
     (дайа̄л нита̄и дайа̄л гоур)
 
-
-[Шрила Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-dhana-mora)
-

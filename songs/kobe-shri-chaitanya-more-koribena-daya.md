@@ -56,8 +56,3 @@ first_line: кобе ш́рӣ чаитанйа море-корибена до�
 
 Бхактивинод Тхакур предлагает эту молитву лотосоподобным стопам вайшнавов. «Одарите меня вашей милостью и примите эту низкую душу в ваше общество!»
 
-
-[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-kobe-sri)
-
-[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-kobe-sri)
-

@@ -45,6 +45,3 @@ first_line: джади гаура на̄ хо’то, тобе ки хоито
 
     (джайа гаурахари)
 
-
-[Сударшан Прабху](https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-jadi-gaura-na)
-

@@ -1,7 +1,6 @@
 {
   "meta": {
     "page": 74,
-    "verse parentheses": "non bold",
     "first_line": "ш́рӣ гуру чаран̣а-падма, кевала-бхакати-садма"
   },
   "title": [
@@ -73,20 +72,6 @@
       "translation": [
         "Я предался, предался твоим лотосоподобным стопам! Пожалуйста, будь милостив. Шри Гурудев, спаситель падших, пожалуйста, даруй мне свою милость. Ты — спаситель падших душ! Слава тебе, Шри Гурудев!"
       ]
-    }
-  ],
-  "embeds": [
-    {
-      "title": "Шрила Ачарья Махарадж",
-      "embed_url": "https://soundcloud.com/bharatimaharaj/acharya-maharaj-sri-guru",
-      "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Facharya-maharaj-sri-guru",
-      "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Facharya-maharaj-sri-guru\"></iframe>"
-    },
-    {
-      "title": "Навадвип Дхам",
-      "embed_url": "https://soundcloud.com/bharatimaharaj/navadwip-scsm-sri-guru-charana",
-      "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fnavadwip-scsm-sri-guru-charana",
-      "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fnavadwip-scsm-sri-guru-charana\"></iframe>"
     }
   ]
 }

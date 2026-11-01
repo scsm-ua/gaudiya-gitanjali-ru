@@ -125,8 +125,3 @@ first_line: джайа джайа гурудевер а̄рати уджвала
 
     (гурудев гурудев джайа джайа гурудев)
 
-
-[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-jaya-jaya)
-
-[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhaya-dzhaya)
-

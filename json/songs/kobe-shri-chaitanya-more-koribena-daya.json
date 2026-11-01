@@ -80,19 +80,5 @@
         "Бхактивинод Тхакур предлагает эту молитву лотосоподобным стопам вайшнавов. «Одарите меня вашей милостью и примите эту низкую душу в ваше общество!»"
       ]
     }
-  ],
-  "embeds": [
-    {
-      "title": "Шрила Говинда Махарадж",
-      "embed_url": "https://soundcloud.com/bharatimaharaj/govinda-maharaj-kobe-sri",
-      "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fgovinda-maharaj-kobe-sri",
-      "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fgovinda-maharaj-kobe-sri\"></iframe>"
-    },
-    {
-      "title": "Навадвип Дхам",
-      "embed_url": "https://soundcloud.com/bharatimaharaj/navadwip-scsm-kobe-sri",
-      "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fnavadwip-scsm-kobe-sri",
-      "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fnavadwip-scsm-kobe-sri\"></iframe>"
-    }
   ]
 }

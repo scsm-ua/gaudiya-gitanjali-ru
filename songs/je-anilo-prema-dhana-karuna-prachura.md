@@ -47,8 +47,3 @@ first_line: дже а̄нило према-дхана корун̣а̄ прач�
     (охе ваиш̣н̣ава т̣ха̄кур)
     (дайа̄л ваиш̣н̣ава т̣ха̄кур)
 
-
-[Шрила Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-viraha-giti)
-
-[Шрила Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-viraha-giti)
-

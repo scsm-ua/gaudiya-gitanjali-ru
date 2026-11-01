@@ -87,6 +87,3 @@ first_line: джайа джайа гирира̄джер а̄ротико ш́о
     (джайа гирира̄дж)
     (джайа гирира̄джа гири говардхана)
 
-
-[Шрила Мадхусудан Махарадж](https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-day-programm-kisel)
-

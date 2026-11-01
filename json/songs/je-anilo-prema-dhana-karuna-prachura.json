@@ -61,20 +61,12 @@
       "translation": [
         "Все они ушли в свои игры. Нароттам Дас Тхакур восклицает: «Мне остается лишь оплакивать свою горькую участь, потому что я не в силах обрести их общество!»"
       ]
-    }
-  ],
-  "embeds": [
-    {
-      "title": "Шрила Госвами Махарадж",
-      "embed_url": "https://soundcloud.com/bharatimaharaj/goswami-maharaj-viraha-giti",
-      "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fgoswami-maharaj-viraha-giti",
-      "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fgoswami-maharaj-viraha-giti\"></iframe>"
     },
     {
-      "title": "Шрила Мадхусудан Махарадж",
-      "embed_url": "https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-viraha-giti",
-      "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fmadhusudan-maharaj-viraha-giti",
-      "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fmadhusudan-maharaj-viraha-giti\"></iframe>"
+      "text": [
+        "(охе ваиш̣н̣ава т̣ха̄кур)",
+        "(дайа̄л ваиш̣н̣ава т̣ха̄кур)"
+      ]
     }
   ]
 }

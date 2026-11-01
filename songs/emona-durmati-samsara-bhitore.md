@@ -62,22 +62,3 @@ first_line: (прабху хе!) эмона дурмати, сам̇са̄ра �
 
 О Господь, услышав эти слова, Бхактивинод зарыдал, моля о живительной сени Твоих лотосоподобных стоп и рассказывая историю своей жизни.
 
-
-[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-emona-durmati)
-
-[Шрила Шридхар Махарадж](https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-govinda-7)
-
-[Шрила Ачарья Махарадж](https://soundcloud.com/bharatimaharaj/acharya-maharaj-emona-durmati)
-
-[Шрила Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-emona-durmati)
-
-[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-emona-durmati)
-
-[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-emona-durmati)
-
-[Сударшан Прабху](https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-dainyatmika)
-
-[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-emona)
-
-[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-emona-1)
-

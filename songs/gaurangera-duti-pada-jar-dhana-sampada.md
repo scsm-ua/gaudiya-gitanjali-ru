@@ -46,6 +46,3 @@ first_line: гаура̄н̇гера дут̣и пада, джа̄р дхана 
     (джайа гаурахари)
     (нита̄и гаура харибол)
 
-
-[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-gaurangera-duti)
-

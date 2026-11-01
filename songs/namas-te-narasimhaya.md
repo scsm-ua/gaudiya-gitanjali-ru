@@ -32,6 +32,3 @@ first_line: намас те нарасим̇ха̄йа
 
     (джайа нрисимхадев)
 
-
-[Шрила Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-s-ri-nr-sim-ha)
-

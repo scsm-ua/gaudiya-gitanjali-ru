@@ -23,6 +23,11 @@
         "title": "Вандана"
       },
       {
+        "id": "vandana-full",
+        "filepath": "songs/vandana-full.md",
+        "title": "Вандана (все молитвы на одной странице)"
+      },
+      {
         "id": "acharya-varyam-gaura-dhama-nishtham",
         "filepath": "songs/acharya-varyam-gaura-dhama-nishtham.md",
         "title": "Шрила Бхакти Ранджан Мадхусуданa Махарадж"

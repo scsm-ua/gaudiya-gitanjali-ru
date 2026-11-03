@@ -5,6 +5,7 @@
 - [Слава Шри Чайтанья Сарасват Матха](songs/shrimach-chaitanya-sarasvata-mathavara-udgita-kirtir.md)
 - [Лого Шри Чайтанья Сарасват Матха](songs/gayatri-muralishta-kirtana-dhanam.md)
 - [Вандана](songs/vande-ham-shri-guroh-shri-yuta-pada-kamalam.md)
+- [Вандана (все молитвы на одной странице)](songs/vandana-full.md)
 - [Шрила Бхакти Ранджан Мадхусуданa Махарадж](songs/acharya-varyam-gaura-dhama-nishtham.md)
 - [Шрила Бхакти Бимал Авадхут Махарадж](songs/vande-vaikuntha-vritti-stham.md)
 - [Шрила Бхакти Судхир Госвами Махарадж](songs/goswaminam-sudhirakhyam.md)

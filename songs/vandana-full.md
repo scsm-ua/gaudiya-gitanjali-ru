@@ -30,7 +30,7 @@ first_line: ванде ‘хам̇ ш́рӣ-гурох̣ ш́рӣ-йута-па�
 
 ## Шрила Бхакти Сундар Говинда Дев-Госвами Махарадж
 
-![Шрила Бхакти Сундар Говинда Дев-Госвами Махарадж](https://github.com/scsm-ua/songbook-resources/blob/main/images/en/3.png?raw=true)
+![Шрила Бхакти Сундар Говинда Дев-Госвами Махарадж](https://github.com/scsm-ua/songbook-resources/blob/main/images/en/3.jpg?raw=true)
 
     гурвва̄бхӣш̣т̣а-супӯракам̇ гуру-ган̣аир
         а̄ш́ӣш̣а-самбхӯш̣итам̇
@@ -47,7 +47,7 @@ first_line: ванде ‘хам̇ ш́рӣ-гурох̣ ш́рӣ-йута-па�
 
 ## Шрила Бхакти Ракшак Шридхар Дев-Госвами Махрадж
 
-![Шрила Бхакти Ракшак Шридхар Дев-Госвами Махрадж](https://github.com/scsm-ua/songbook-resources/blob/main/images/en/4.png?raw=true)
+![Шрила Бхакти Ракшак Шридхар Дев-Госвами Махрадж](https://github.com/scsm-ua/songbook-resources/blob/main/images/en/4.jpg?raw=true)
 
     девам̇ дивйа-танум̇ сучанда-ваданам̇-
         ба̄ла̄рка-чела̄н̃читам̇
@@ -64,7 +64,7 @@ first_line: ванде ‘хам̇ ш́рӣ-гурох̣ ш́рӣ-йута-па�
 
 ## Бхагаван Шрила Бхактисиддханта Сарасвати
 
-![Бхагаван Шрила Бхактисиддханта Сарасвати](https://github.com/scsm-ua/songbook-resources/blob/main/images/en/5.png?raw=true)
+![Бхагаван Шрила Бхактисиддханта Сарасвати](https://github.com/scsm-ua/songbook-resources/blob/main/images/en/5.jpg?raw=true)
 
     ш́рӣ-сиддха̄нта-сарасватӣти видито
         гауд̣ӣйа-гурв-анвайе
@@ -81,7 +81,7 @@ first_line: ванде ‘хам̇ ш́рӣ-гурох̣ ш́рӣ-йута-па�
 
 ## Шрила Гауракишор Дас Бабаджи Махарадж
 
-![Шрила Гауракишор Дас Бабаджи Махарадж](https://github.com/scsm-ua/songbook-resources/blob/main/images/en/6.png?raw=true)
+![Шрила Гауракишор Дас Бабаджи Махарадж](https://github.com/scsm-ua/songbook-resources/blob/main/images/en/6.jpg?raw=true)
 
     намо гауракиш́ора̄йа
         бхакта̄вадхӯта мӯртайе
@@ -94,7 +94,7 @@ first_line: ванде ‘хам̇ ш́рӣ-гурох̣ ш́рӣ-йута-па�
 
 ## Шрила Бхактивинод Тхакур
 
-![Шрила Бхактивинод Тхакур](https://github.com/scsm-ua/songbook-resources/blob/main/images/en/7.png?raw=true)
+![Шрила Бхактивинод Тхакур](https://github.com/scsm-ua/songbook-resources/blob/main/images/en/7.jpg?raw=true)
 
     ванде бхактивинодам̇ ш́рӣ-
         гаура-ш́акти-сварӯпакам
@@ -107,7 +107,7 @@ first_line: ванде ‘хам̇ ш́рӣ-гурох̣ ш́рӣ-йута-па�
 
 ## Шрила Джаганнатх Дас Бабаджи Махарадж
 
-![Шрила Джаганнатх Дас Бабаджи Махарадж](https://github.com/scsm-ua/songbook-resources/blob/main/images/en/8.png?raw=true)
+![Шрила Джаганнатх Дас Бабаджи Махарадж](https://github.com/scsm-ua/songbook-resources/blob/main/images/en/8.jpg?raw=true)
 
     гаура-враджа̄ш́рита̄ш́еш̣аир
         ваиш̣н̣аваир вандйа-виграхам

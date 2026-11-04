@@ -161,7 +161,7 @@ first_line: ванде ‘хам̇ (все молитвы на одной стр
 
 ## Шри Шри Гуру-Гауранга Радха-Мадан-Моханджиу
 
-![Шрила Джаганнатх Дас Бабаджи Махарадж](https://github.com/scsm-ua/songbook-resources/blob/main/images/en/9.jpg?raw=true)
+![Шри Шри Гуру-Гауранга Радха-Мадан-Моханджиу, Колката, Шри Чайтанья Сарасвата Кришнанушилана Сангха](https://github.com/scsm-ua/songbook-resources/blob/main/images/en/9.jpg?raw=true)
 
 **Колката, Шри Чайтанья Сарасвата Кришнанушилана Сангха**
 
@@ -174,7 +174,7 @@ first_line: ванде ‘хам̇ (все молитвы на одной стр
 
 ## Шри-Шри-Гуру-Гауранга-Гандхарва-Говиндасундарджиу
 
-![Шрила Джаганнатх Дас Бабаджи Махарадж](https://github.com/scsm-ua/songbook-resources/blob/main/images/en/10.jpg?raw=true)
+![Шри-Шри-Гуру-Гауранга-Гандхарва-Говиндасундарджиу, Навадвип, Шри Чайтанья Сарасват Матх](https://github.com/scsm-ua/songbook-resources/blob/main/images/en/10.jpg?raw=true)
 
 **Навадвип, Шри Чайтанья Сарасват Матх**
 
@@ -187,7 +187,7 @@ first_line: ванде ‘хам̇ (все молитвы на одной стр
 
 ## Шри-Шри-Гуру-Гауранга-Радха-Гопинатхаджиу
 
-![Шрила Джаганнатх Дас Бабаджи Махарадж](https://github.com/scsm-ua/songbook-resources/blob/main/images/en/11.jpg?raw=true)
+![Шри-Шри-Гуру-Гауранга-Радха-Гопинатхаджиу, Хапания, Шри Чайтанья Сарасват Ашрам](https://github.com/scsm-ua/songbook-resources/blob/main/images/en/11.jpg?raw=true)
 
 **Хапания, Шри Чайтанья Сарасват Ашрам**
 
